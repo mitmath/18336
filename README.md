@@ -1,4 +1,4 @@
-# 18.336J/6.335J: Fast Methods for Partial Differential and Integral Equations 
+## 18.336J/6.335J: Fast Methods for Partial Differential and Integral Equations 
 
 ## Syllabus
 
