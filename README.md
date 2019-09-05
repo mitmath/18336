@@ -21,3 +21,12 @@ Problem sets will involve extensive coding and are required to be completed in *
 
 **Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.  You must write up your own solutions.  Sharing code is not allowed.
 
+## Lecture Summaries
+
+**Lecture 1**: Intro to fast methods
+* Course policies
+* Steven Johnson's Julia tutorial: 09/06/2019 5-7pm (32-141)
+* Why fast algorithms? History of algorithms for the Fourier transform.
+* Why PDEs? Models for physical systems. Classes of PDEs. Elliptic regularity theorem.
+* Why integral equations? Better conditioning from using exact solution formulae.
+* [Top ten algorithms of the 20th century](https://archive.siam.org/pdf/news/637.pdf)
