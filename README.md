@@ -8,7 +8,7 @@ Example applications include: aircraft design, cardiovascular system modeling, e
 
 **Lectures**: Tuesday/Thursday 9:30-11:00 am (2-136).  
 
-**Office Hours**: TBD.
+**Office Hours**: TBD. By arrangement for now.
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs. 
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed. 
