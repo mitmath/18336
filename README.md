@@ -15,15 +15,21 @@ Some familiarity with ordinary differential equations, partial differential equa
 It is strongly recommended that you have taken a previous course on basic numerical methods, such as [2.096/6.336/16.910](http://student.mit.edu/catalog/m6b.html#6.336), [2.097/6.339/16.920](http://student.mit.edu/catalog/m16b.html#16.920), [18.085](http://student.mit.edu/catalog/m18a.html#18.085), or [6.337/18.335](http://student.mit.edu/catalog/m18a.html#18.335).
 Problem sets will involve extensive coding and are required to be completed in **Python** or **Julia** notebooks.
 
-**Textbooks & Other Reading**: Recommended reading will be posted as the class progresses.
+**Textbooks & Other Reading**: Recommended reading will be posted as the class progresses. There is no textbook for the course, but the following books may be useful:
+* Strauss "Partial Differential Equations: An Introduction". An advanced undergrad intrdouction to PDEs.
+* Boyd "Chebyshev and Fourier Spectral Methods". Very readable and [available online](http://depts.washington.edu/ph506/Boyd.pdf).
+* LeVeque "Finite difference methods for ordinary and partial differential equations".
+* LeVeque "Finite volume methods for hyperbolic problems".
 
 **Grading**: 50% problem sets (approximately biweekly), 50% final project report and presentation.
 
 **Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.  You must write up your own solutions.  Sharing code is not allowed.
 
-## Lecture Summaries
+## Lecture Material and Summaries
 
-**Lecture 1**: Intro to fast methods
+### Lecture 1: Introduction to Fast Methods, PDEs, IEs
+
+**Summary**
 * Course policies
 * Steven Johnson's Julia tutorial: 09/06/2019 5-7pm (32-141)
 * Why fast algorithms? History of algorithms for the Fourier transform.
