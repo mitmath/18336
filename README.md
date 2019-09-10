@@ -50,7 +50,6 @@ Problem sets will involve extensive coding and are required to be completed in *
 * History of the FFT. Facts that make the FFT possible.
 * Radix-2 Cooley-Tukey algorithm.
 * Radix-3 and algorithms for prime N.
-* Variations: cosine, sine, and Chebyshev transforms.
 
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
