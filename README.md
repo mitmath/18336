@@ -29,6 +29,11 @@ Problem sets will involve extensive coding and are required to be completed in *
 
 **Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.  You must write up your own solutions.  Sharing code is not allowed.
 
+## Problem Sets
+
+### Problem Set 1: Implementing an FFT.
+Due in class Thursday 09/19.  Available soon.
+
 ## Lecture Material and Summaries
 
 ### Lecture 1: Introduction to Fast Methods, PDEs, IEs
@@ -50,6 +55,7 @@ Problem sets will involve extensive coding and are required to be completed in *
 * History of the FFT. Facts that make the FFT possible.
 * Radix-2 Cooley-Tukey algorithm.
 * Radix-3 and algorithms for prime N.
+* Problem Set 1 assigned.
 
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
