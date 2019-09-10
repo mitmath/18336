@@ -1,8 +1,12 @@
 ## 18.336J/6.335J: Fast Methods for Partial Differential and Integral Equations 
 
+Course description:
+
 A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations. 
 Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods. 
 Example applications include: aircraft design, cardiovascular system modeling, electronic structure computation, and tomographic imaging.
+
+This semester we will focus in particular in Fourier and polynomial spectral methods, FMM, methods for integral equations, and applications to fluid dynamics and electromagnetism.
 
 ## Syllabus
 
@@ -32,7 +36,19 @@ Problem sets will involve extensive coding and are required to be completed in *
 **Summary**
 * Course policies
 * Steven Johnson's Julia tutorial: 09/06/2019 5-7pm (32-141)
-* Why fast algorithms? History of algorithms for the Fourier transform.
+* Why fast algorithms? History of fast algorithms for the Fourier transform.
 * Why PDEs? Models for physical systems. Classes of PDEs. Elliptic regularity theorem.
 * Why integral equations? Better conditioning from using exact solution formulae.
 * [Top ten algorithms of the 20th century](https://archive.siam.org/pdf/news/637.pdf)
+
+### Lecture 2: The Fast Fourier Transform
+
+**Summary**
+* Continuous FT, discrete FT.
+* History of the FFT. Facts that make the FFT possible.
+* Radix-2 Cooley-Tukey algorithm.
+* Radix-3 and algorithms for prime N.
+* Variations: cosine, sine, and Chebyshev transforms.
+
+**Related Reading**
+* Johnson & Frigo "Implementing FFTs in Practice".
