@@ -39,6 +39,8 @@ Problem sets will involve extensive coding and are required to be completed in *
 * Why fast algorithms? History of fast algorithms for the Fourier transform.
 * Why PDEs? Models for physical systems. Classes of PDEs. Elliptic regularity theorem.
 * Why integral equations? Better conditioning from using exact solution formulae.
+
+**Related Reading**
 * [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
 ### Lecture 2: The Fast Fourier Transform
