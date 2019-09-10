@@ -39,7 +39,7 @@ Problem sets will involve extensive coding and are required to be completed in *
 * Why fast algorithms? History of fast algorithms for the Fourier transform.
 * Why PDEs? Models for physical systems. Classes of PDEs. Elliptic regularity theorem.
 * Why integral equations? Better conditioning from using exact solution formulae.
-* [Top ten algorithms of the 20th century](https://archive.siam.org/pdf/news/637.pdf)
+* [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
 ### Lecture 2: The Fast Fourier Transform
 
@@ -51,4 +51,4 @@ Problem sets will involve extensive coding and are required to be completed in *
 * Variations: cosine, sine, and Chebyshev transforms.
 
 **Related Reading**
-* Johnson & Frigo "Implementing FFTs in Practice".
+* [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
