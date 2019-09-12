@@ -55,7 +55,6 @@ Due in class Thursday 09/19.  Available soon.
 * History of the FFT. Facts that make the FFT possible.
 * Radix-2 Cooley-Tukey algorithm.
 * Radix-3 and algorithms for prime N.
-* Problem Set 1 assigned.
 
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
@@ -63,9 +62,8 @@ Due in class Thursday 09/19.  Available soon.
 ### Lecture 3: Some applications of the FFT
 
 **Summary**
+* Problem Set 1 assigned: due on Stellar by midnight on Tue 09/24
 * Sine, cosine, and Chebyshev transforms
 * Fast matrix-vector products using the FFT
   * Circulant, Toeplitz, Hankel matrices
-  * Structured block matrices
-  * Diagonalization by multidimensional transforms
 
