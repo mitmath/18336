@@ -30,7 +30,7 @@ Problem sets will involve extensive coding and are required to be completed in *
 ## Problem Sets
 
 ### Problem Set 1: Implementing an FFT.
-Due on Stellar by midnight on Tuesday 09/24.  Available soon.
+Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 
 ## Lecture Material and Summaries
 
