@@ -65,5 +65,6 @@ Due on Stellar by midnight on Tuesday 09/24.  Available soon.
 * Problem Set 1 assigned: due on Stellar by midnight on Tuesday 09/24.
 * Sine, cosine, and Chebyshev transforms.
 * Fast matrix-vector products using the FFT.
-  * Circulant, Toeplitz, Hankel matrices.
-
+  * Circulant matrices: diagonalization using DFT.
+  * Toeplitz matrices: embedding into circulant form.
+  * Hankel matrices: converison to Toeplitz form.
