@@ -40,7 +40,7 @@ Due in class Thursday 09/19.  Available soon.
 
 **Summary**
 * Course policies
-* Steven Johnson's Julia tutorial: 09/06/2019 5-7pm (32-141)
+* Julia tutorial: 09/06/2019 5-7pm (32-141)
 * Why fast algorithms? History of fast algorithms for the Fourier transform.
 * Why PDEs? Models for physical systems. Classes of PDEs. Elliptic regularity theorem.
 * Why integral equations? Better conditioning from using exact solution formulae.
