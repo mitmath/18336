@@ -27,12 +27,12 @@ Problem sets will involve extensive coding and are required to be completed in *
 
 **Grading**: 50% problem sets (approximately biweekly), 50% final project report and presentation.
 
-**Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.  You must write up your own solutions.  Sharing code is not allowed.
+**Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.  You must write up your own code and solutions, and indicate your collaborators on your assignments.
 
 ## Problem Sets
 
 ### Problem Set 1: Implementing an FFT.
-Due in class Thursday 09/19.  Available soon.
+Due on Stellar by midnight on Tuesday 09/24.  Available soon.
 
 ## Lecture Material and Summaries
 
@@ -62,8 +62,8 @@ Due in class Thursday 09/19.  Available soon.
 ### Lecture 3: Some applications of the FFT
 
 **Summary**
-* Problem Set 1 assigned: due on Stellar by midnight on Tue 09/24
-* Sine, cosine, and Chebyshev transforms
-* Fast matrix-vector products using the FFT
-  * Circulant, Toeplitz, Hankel matrices
+* Problem Set 1 assigned: due on Stellar by midnight on Tuesday 09/24.
+* Sine, cosine, and Chebyshev transforms.
+* Fast matrix-vector products using the FFT.
+  * Circulant, Toeplitz, Hankel matrices.
 
