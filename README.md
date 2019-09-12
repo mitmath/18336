@@ -59,3 +59,13 @@ Due in class Thursday 09/19.  Available soon.
 
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
+
+### Lecture 3: Some applications of the FFT
+
+**Summary**
+* Sine, cosine, and Chebyshev transforms
+* Fast matrix-vector products using the FFT
+  * Circulant, Toeplitz, Hankel matrices
+  * Structured block matrices
+  * Diagonalization by multidimensional transforms
+
