@@ -66,3 +66,11 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
   * Circulant matrices: diagonalization using DFT.
   * Toeplitz matrices: embedding into circulant form.
   * Hankel matrices: converison to Toeplitz form.
+
+### Lecture 4: Finite differences and fast Poisson solvers in 1D
+* Review of finite difference methods
+* Spectral preconditioning for fast Poisson solvers in 1D:
+  * Periodic BCs using the FFT
+  * Dirichlet BCs using the DST
+  * Neumann BCs using the DCT
+  * Gauge fixing
