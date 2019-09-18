@@ -46,23 +46,23 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 **Related Reading**
 * [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
-### Lecture 2: The Fast Fourier Transform
+### Lecture 2: Fast Fourier Transforms
 
 **Summary**
 * Continuous FT, discrete FT.
-* History of the FFT. Facts that make the FFT possible.
+* History of FFTs. Facts that make FFTs possible.
 * Radix-2 Cooley-Tukey algorithm.
 * Radix-3 and algorithms for prime N.
 
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
 
-### Lecture 3: Some applications of the FFT
+### Lecture 3: Some applications of FFTs
 
 **Summary**
 * Problem Set 1 assigned: due on Stellar by midnight on Tuesday 09/24.
 * Sine, cosine, and Chebyshev transforms.
-* Fast matrix-vector products using the FFT.
+* Fast matrix-vector products using FFTs.
   * Circulant matrices: diagonalization using DFT.
   * Toeplitz matrices: embedding into circulant form.
   * Hankel matrices: converison to Toeplitz form.
@@ -72,7 +72,7 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 **Summary**
 * Review of finite difference methods
 * Spectral preconditioning for fast Poisson solvers in 1D:
-  * Periodic BCs using the FFT
-  * Dirichlet BCs using the DST
-  * Neumann BCs using the DCT
+  * Periodic BCs using FFTs
+  * Dirichlet BCs using DSTs
+  * Neumann BCs using DCTs
   * Gauge fixing
