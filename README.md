@@ -70,9 +70,21 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 ### Lecture 4: Finite differences and fast Poisson solvers in 1D
 
 **Summary**
-* Review of finite difference methods
+* Review of finite difference methods.
 * Spectral preconditioning for fast Poisson solvers in 1D:
-  * Periodic BCs using FFTs
-  * Dirichlet BCs using DSTs
-  * Neumann BCs using DCTs
-  * Gauge fixing
+  * Periodic BCs using FFTs.
+  * Dirichlet BCs using DSTs.
+  * Neumann BCs using DCTs.
+  * Gauge fixing.
+  
+### Lecture 5: Fast finite difference solvers in multiple dimensions
+
+**Summary**
+* Sylvester equations, Bartels-Stewart algorithm.
+* Kronecker products and block matrices.
+* Fast matrix-vector products with structured block matrices.
+* Fast Poisson solvers in multiple dimensions.
+* Extensions to other PDEs, e.g. Helmholtz.
+* Limitations and alternatives for non-constant coefficients.
+
+  
