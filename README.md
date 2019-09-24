@@ -87,4 +87,14 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 * Extensions to other PDEs, e.g. Helmholtz.
 * Limitations and alternatives for non-constant coefficients.
 
-  
+### Lecture 6: Domain decomposition methods
+
+**Summary**
+* Extensions to other domains
+* Schur complement / Poincare Steklov method for domain decomposition
+  * 1D and 2D examples
+  * Heirarchical Poincare Steklov method
+* Distorted domains
+
+**Related Reading**
+* [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://arxiv.org/abs/1506.01308)
