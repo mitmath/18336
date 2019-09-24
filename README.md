@@ -91,9 +91,10 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 
 **Summary**
 * Extensions to other domains
-* Schur complement / Poincare Steklov method for domain decomposition
-  * 1D and 2D examples
-  * Heirarchical Poincare Steklov method
+* Schur complement / Poincare-Steklov method for domain decomposition
+  * Connecting two 1D segments
+  * Connecting two 2D boxes
+  * Heirarchical Poincare-Steklov method for multiple connections
 * Distorted domains
 
 **Related Reading**
