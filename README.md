@@ -98,4 +98,4 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 * Distorted domains
 
 **Related Reading**
-* [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://arxiv.org/abs/1506.01308)
+* [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/marinsson_poincare_steklov.pdf)
