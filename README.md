@@ -112,3 +112,24 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
   
 **Related Reading**
 * Boyd chapters 1 & 2.
+
+### Lecture 8: Basic Fourier spectral methods
+
+**Summary**
+* Weighted residual method for discretizing PDEs.
+* Fourier solver for Poisson equation with periodic BCs.
+  * Comparison to finite difference solver. Eigenvalue corrections.
+* Fourier spectral collocation.
+* Sine and cosine solvers for Poisson equation with Dirichlet/Neumann BCs.
+  * Conditions on forcing for exponential convergence.
+  
+**Related Reading**
+* Boyd chapter 3.
+  
+### Lecture 9: More Fourier spectral methods
+
+**Summary**
+* Parity mixing.
+* Extending to multiple dimensions.
+* Extending to systems of equations.
+* Pseudospectral method. Dealiasing.
