@@ -110,5 +110,5 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
   * Truncation and discretization error.
   * Convergence of Fourier series.
   
-  **Related Reading**
-  * Boyd chapters 1 & 2.
+**Related Reading**
+* Boyd chapters 1 & 2.
