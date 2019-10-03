@@ -46,7 +46,7 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 **Related Reading**
 * [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
-### Lecture 2: Fast Fourier Transforms
+### Lecture 2: Fast Fourier transforms
 
 **Summary**
 * Continuous FT, discrete FT.
@@ -90,12 +90,22 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 ### Lecture 6: Domain decomposition methods
 
 **Summary**
-* Extensions to other domains
-* Schur complement / Poincare-Steklov method for domain decomposition
-  * Connecting two 1D segments
-  * Connecting two 2D boxes
-  * Heirarchical Poincare-Steklov method for multiple connections
-* Distorted domains
+* Extensions to other domains.
+* Schur complement / Poincare-Steklov method for domain decomposition.
+  * Connecting two 1D segments.
+  * Connecting two 2D boxes.
+  * Heirarchical Poincare-Steklov method for multiple connections.
+* Distorted domains.
 
 **Related Reading**
 * [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/marinsson_poincare_steklov.pdf)
+
+### Lecture 7: Introduction to spectral methods
+
+**Summary**
+* Wrap up domain decomposition and distorted domains. Comparison to finite elements.
+* Introduction to spectral methods.
+  * Spectral representations of functions.
+  * Rates of convergence.
+  * Truncation and discretization error.
+  * Convergence of Fourier series.
