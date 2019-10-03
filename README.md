@@ -113,7 +113,7 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 **Related Reading**
 * Boyd chapters 1 & 2.
 
-### Lecture 8: Basic Fourier spectral methods
+### Lecture 8: Fourier spectral methods I
 
 **Summary**
 * Weighted residual method for discretizing PDEs.
@@ -126,7 +126,7 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 **Related Reading**
 * Boyd chapter 3.
   
-### Lecture 9: More Fourier spectral methods
+### Lecture 9: Fourier spectral methods II
 
 **Summary**
 * Parity mixing.
