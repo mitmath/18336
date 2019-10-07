@@ -132,4 +132,4 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 * Parity mixing.
 * Extending to multiple dimensions via direct products.
 * Extending to systems of equations. Maintaining bandedness.
-* Pseudospectral method for evaluating nonlinearities. Dealiasing.
+* Pseudospectral method for evaluating nonlinearities.
