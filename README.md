@@ -136,3 +136,6 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Extending to multiple dimensions via direct products.
 * Extending to systems of equations. Maintaining bandedness.
 * Pseudospectral method for evaluating nonlinearities.
+
+**Related Reading**
+* [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://doi.org/10.1016/j.jcp.2008.04.020)
