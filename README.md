@@ -32,6 +32,9 @@ Problem sets will involve extensive coding and are required to be completed in *
 ### Problem Set 1: Implementing an FFT.
 Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 
+### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers.
+Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
+
 ## Lecture Material and Summaries
 
 ### Lecture 1: Introduction to Fast Methods, PDEs, IEs
