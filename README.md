@@ -149,7 +149,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Lebesgue constant of equispaced points. Runge phenomenon.
 * Lebesgue constant of Chebyshev nodes.
 
-## Lecture 11: Chebyshev interpolation
+### Lecture 11: Chebyshev interpolation
 
 **Summary**
 * Convergence of Chebyshev series. Singularities in elliptical coordinates.
