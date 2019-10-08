@@ -145,9 +145,9 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 **Summary**
 * Aliasing errors. Dealiasing rules for arbitrary-order nonlinearities.
 * For more general equations and boundary conditions, need to use polynomials.
-  * Polynomial interpolation. Lagrange representation.
-  * Lebesgue constant of equispaced points. Runge phenomenon.
-  * Lebesgue constant of Chebyshev nodes.
+* Polynomial interpolation. Lagrange representation.
+* Lebesgue constant of equispaced points. Runge phenomenon.
+* Lebesgue constant of Chebyshev nodes.
   
 ## Lecture 11: Chebyshev interpolation
 
