@@ -139,3 +139,20 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 
 **Related Reading**
 * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://doi.org/10.1016/j.jcp.2008.04.020)
+
+### Lecture 10: Polynomial interpolation
+
+**Summary**
+* Aliasing errors. Dealiasing rules for arbitrary-order nonlinearities.
+* For more general equations and boundary conditions, need to use polynomials.
+  * Polynomial interpolation. Lagrange representation.
+  * Lebesgue constant of equispaced points. Runge phenomenon.
+  * Lebesgue constant of Chebyshev nodes.
+  
+## Lecture 11: Chebyshev interpolation
+
+**Summary**
+* Convergence of Chebyshev series. Singularities in elliptical coordinates.
+* Gaussian quadrature. Deriving nodes and weights.
+* Discretization error from polynomial interpolation on Gaussian quadrature nodes.
+
