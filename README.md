@@ -143,7 +143,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 ### Lecture 10: Polynomial interpolation
 
 **Summary**
-* Aliasing errors. Dealiasing rules for arbitrary-order nonlinearities.
+* Wrap up: aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
 * For more general equations and boundary conditions, need to use polynomials.
 * Polynomial interpolation. Lagrange representation.
 * Lebesgue constant of equispaced points. Runge phenomenon.
