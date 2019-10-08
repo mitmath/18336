@@ -1,19 +1,19 @@
-## 18.336J/6.335J: Fast Methods for Partial Differential and Integral Equations 
+## 18.336J/6.335J: Fast Methods for Partial Differential and Integral Equations
 
-A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations. 
-Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods. 
+A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations.
+Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods.
 Example applications include: aircraft design, cardiovascular system modeling, electronic structure computation, and tomographic imaging.
 
 This semester we will focus in particular in Fourier and polynomial spectral methods, FMM, methods for integral equations, and applications to fluid dynamics and electromagnetism.
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 9:30-11:00 am (2-136).  
+**Lectures**: Tuesday/Thursday 9:30-11:00 am (2-136).
 
 **Office Hours**: TBD. By arrangement for now.
 
-**Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs. 
-Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed. 
+**Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
+Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
 It is strongly recommended that you have taken a previous course on basic numerical methods, such as [2.096/6.336/16.910](http://student.mit.edu/catalog/m6b.html#6.336), [2.097/6.339/16.920](http://student.mit.edu/catalog/m16b.html#16.920), [18.085](http://student.mit.edu/catalog/m18a.html#18.085), or [6.337/18.335](http://student.mit.edu/catalog/m18a.html#18.335).
 Problem sets will involve extensive coding and are required to be completed in **Python** or **Julia** notebooks.
 
@@ -79,7 +79,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
   * Dirichlet BCs using DSTs.
   * Neumann BCs using DCTs.
   * Gauge fixing.
-  
+
 ### Lecture 5: Fast finite difference solvers in multiple dimensions
 
 **Summary**
@@ -101,7 +101,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Distorted domains.
 
 **Related Reading**
-* [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/marinsson_poincare_steklov.pdf)
+* [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
 
 ### Lecture 7: Introduction to spectral methods
 
@@ -112,7 +112,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
   * Rates of convergence.
   * Truncation and discretization error.
   * Convergence of Fourier series.
-  
+
 **Related Reading**
 * Boyd chapters 1 & 2.
 
@@ -125,10 +125,10 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Fourier spectral collocation.
 * Sine and cosine solvers for Poisson equation with Dirichlet/Neumann BCs.
   * Conditions on forcing for exponential convergence.
-  
+
 **Related Reading**
 * Boyd chapter 3.
-  
+
 ### Lecture 9: Fourier spectral methods II
 
 **Summary**
@@ -138,7 +138,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Pseudospectral method for evaluating nonlinearities.
 
 **Related Reading**
-* [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://doi.org/10.1016/j.jcp.2008.04.020)
+* [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
 
 ### Lecture 10: Polynomial interpolation
 
@@ -148,7 +148,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Polynomial interpolation. Lagrange representation.
 * Lebesgue constant of equispaced points. Runge phenomenon.
 * Lebesgue constant of Chebyshev nodes.
-  
+
 ## Lecture 11: Chebyshev interpolation
 
 **Summary**
