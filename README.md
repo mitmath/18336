@@ -140,7 +140,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 **Related Reading**
 * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
 
-### Lecture 10: Polynomial interpolation
+### Lecture 10: Polynomial interpolation I
 
 **Summary**
 * Wrap up: aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
@@ -149,10 +149,11 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Lebesgue constant of equispaced points. Runge phenomenon.
 * Lebesgue constant of Chebyshev nodes.
 
-### Lecture 11: Chebyshev interpolation
+### Lecture 11: Polynomial interpolation II
 
 **Summary**
 * Convergence of Chebyshev series. Singularities in elliptical coordinates.
 * Gaussian quadrature. Deriving nodes and weights.
 * Discretization error from polynomial interpolation on Gaussian quadrature nodes.
+* Convergence of Gegenbauer polynomials. Legendre polynomials and finite elements.
 
