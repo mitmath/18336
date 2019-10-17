@@ -157,7 +157,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Discretization error from polynomial interpolation on Gaussian quadrature nodes.
 * Convergence of Gegenbauer polynomials. Legendre polynomials and finite elements.
 
-### Lecture 12: Chebyshev collocation
+### Lecture 12: Chebyshev collocation methods
 
 **Summary**
 * Collocation matrices for differentiation and multiplication.
