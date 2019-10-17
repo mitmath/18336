@@ -157,3 +157,12 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Discretization error from polynomial interpolation on Gaussian quadrature nodes.
 * Convergence of Gegenbauer polynomials. Legendre polynomials and finite elements.
 
+### Lecture 12: Chebyshev collocation
+
+**Summary**
+* Collocation matrices for differentiation and multiplication.
+* Boundary bordering. Generalized tau equivalence.
+* Rectangular collocation. Generalized tau equivalence.
+
+**Related Reading**
+* [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
