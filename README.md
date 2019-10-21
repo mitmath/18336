@@ -160,8 +160,14 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 ### Lecture 12: Chebyshev collocation methods
 
 **Summary**
-* Collocation matrices for differentiation and multiplication.
+* Collocation matrices for differentiation.
+* Collocation matrices for multiplication.  Aliasing errors.
+* Roots vs extrema grid.
 * Boundary bordering. Generalized tau equivalence.
+
+### Lecture 13: Chebyshev coefficient methods
+
+**Summary**
 * Rectangular collocation. Generalized tau equivalence.
 
 **Related Reading**
