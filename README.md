@@ -165,10 +165,16 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Roots vs extrema grid.
 * Boundary bordering. Generalized tau equivalence.
 
-### Lecture 13: Chebyshev coefficient methods
+### Lecture 13: Dense Chebyshev spectral methods
 
 **Summary**
 * Rectangular collocation. Generalized tau equivalence.
+* Chebyshev recursion formulae.
+* Spectral matrices for differentiation.
+* Spectral matrices for multiplication. Band-limited expansions.
+* Classical tau method for boundary conditions.
 
 **Related Reading**
 * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
+
+
