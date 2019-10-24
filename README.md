@@ -182,4 +182,5 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * Classical tau method for boundary conditions.
 * Chebyshev-T derivatives are Chebyshev-U polynomials.
 * T-to-U differentiation and conversion matrices.
-* Banded + bordered form. Sherman-Morrison formula.
+* Sparse T-to-U method. Generalized tau equivalence.
+* Sherman-Morrison formula for banded + bordered matrices.
