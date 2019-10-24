@@ -170,11 +170,16 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 **Summary**
 * Rectangular collocation. Generalized tau equivalence.
 * Chebyshev recursion formulae.
-* Spectral matrices for differentiation.
-* Spectral matrices for multiplication. Band-limited expansions.
-* Classical tau method for boundary conditions.
+* T-to-T matrices for differentiation.
+* T-to-T matrices for multiplication. Band-limited expansions.
 
 **Related Reading**
 * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
 
+### Lecture 14: Sparse Chebyshev spectral methods
 
+**Summary**
+* Classical tau method for boundary conditions.
+* Chebyshev-T derivatives are Chebyshev-U polynomials.
+* T-to-U differentiation and conversion matrices.
+* Banded + bordered form. Sherman-Morrison formula.
