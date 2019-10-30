@@ -184,3 +184,20 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 * T-to-U differentiation and conversion matrices.
 * Sparse T-to-U method. Generalized tau equivalence.
 * Sherman-Morrison formula for banded + bordered matrices.
+
+### Lecture 15: Ultraspherical method
+
+**Summary**
+* Differentiation and conversion between ultraspherical polynomials.
+* Ultraspherical method for arbitrary-order linear ODEs. Generalized tau equivalence.
+* Woodbury matrix identity for banded + multi-bordered matrices.
+* Newton's method in function space for nonlinear ODEs.
+* Polynomial spectral methods in multiple dimensions:
+  * Chebyshev x Chebyshev, alternating-direction-implicit scheme
+  
+**Related Reading**
+* [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
+* [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
+
+
+
