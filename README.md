@@ -35,6 +35,9 @@ Available on Stellar. Due on Stellar by midnight on Tuesday 09/24.
 ### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers.
 Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 
+### Problem Set 3: Chebyshev Spectral Solvers.
+Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
+
 ## Lecture Material and Summaries
 
 ### Lecture 1: Introduction to Fast Methods, PDEs, IEs
