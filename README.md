@@ -38,6 +38,43 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 ### Problem Set 3: Chebyshev Spectral Solvers.
 Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
 
+## Final Projets
+
+The final project is a 10 page paper (using a LaTeX template to be provided) and a 15 minute presentation during the last week of classes.
+**The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
+The project can take the form a "reporting project" discussing a published algorithm, or a "research project" attempting to implement a new solver for a problem of your choice.
+
+### Reporting projects
+
+One possibility is to review and implement an algorithm that was mentioned briefly or not covered in the course.
+Such a project should follow one or several published research papers describing the algorithm, along with a new implementation.
+Possible topics and suggested papers include:
+* Advanced optimizations for production-level FFT implementations.
+  * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf)
+* Hierarchical Poincare-Steklov schemes using Chebyshev polynomails.
+  * [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
+* Parity-mixing in sine/cosine solvers.
+  * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
+* Rectangular collocation with aliasing analysis.
+  * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
+* Alternating direction implicit scheme for multidimensional Chebyshev Poisson solvers
+  * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
+* Non-uniform Fast Fourier Transforms
+  * [Barnett et al. "A parallel non-uniform fast Fourier transform library based on an 'exponential of semicircle' kernel"](https://arxiv.org/abs/1808.06736)
+  
+### Research projects
+  
+Another option is to use the methods covered in class to implement a fast solver for a research problem in your field.
+This should include:
+* A discussion of the scientific problem and a brief derivation of the model PDE.
+* Mention of the current commonly used methods in the field for the problem.
+* A fast implementation of a new solver for the problem, or a related first-step.
+* Discussion of the prospects and limitations of fast/high-order techniques for this problem in the future.
+
+The goal should be producing a functional solver matching or improving on existing techniques in certain cases.
+However, it is understood that this may not turn out to be feasible (or even possible), and that's what makes it research!
+In that case, an implementation for a related toy model is expected, along with an analysis of the barriers to making a solver for the original problem.
+
 ## Lecture Material and Summaries
 
 ### Lecture 1: Introduction to Fast Methods, PDEs, IEs
@@ -196,7 +233,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
 * Woodbury matrix identity for banded + multi-bordered matrices.
 * Newton's method in function space for nonlinear ODEs.
 * Polynomial spectral methods in multiple dimensions:
-  * Chebyshev x Chebyshev, alternating-direction-implicit scheme
+  * Chebyshev x Chebyshev, alternating direction implicit scheme
   
 **Related Reading**
 * [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
