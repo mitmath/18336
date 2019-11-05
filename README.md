@@ -250,3 +250,8 @@ In that case, an implementation for a related toy model is expected, along with 
   * Non-smoothness of vector/tensor components.
   * Radial regularity of Fourier components in polar coordinates.
   * Disk bases incorporating regularity. 
+  
+**Related Reading**
+* [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
+* [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-I: Mathematical analysis and derivations"](https://doi.org/10.1016/j.jcpx.2019.100013)
+* [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-II: Implementation and examples"](https://doi.org/10.1016/j.jcpx.2019.100012)
