@@ -239,7 +239,7 @@ In that case, an implementation for a related toy model is expected, along with 
 * [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
 * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
 
-### Lecture 16: 
+### Lecture 16: Multidimensional spectral methods
 
 **Summary**
 * Fourier-Chebyshev multidimensional discretizations for periodic laters, cylinders, etc.
