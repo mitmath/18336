@@ -239,5 +239,14 @@ In that case, an implementation for a related toy model is expected, along with 
 * [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
 * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
 
+### Lecture 16: 
 
-
+**Summary**
+* Fourier-Chebyshev multidimensional discretizations for periodic laters, cylinders, etc.
+* Pseudospectral method for nonlinear IVPs.
+* Block-banded formulation for systems of equations.
+* Example: incompressible Navier-Stokes without splitting.
+* Spectral methods with coordinate singularities:
+  * Non-smoothness of vector/tensor components.
+  * Radial regularity of Fourier components in polar coordinates.
+  * Disk bases incorporating regularity. 
