@@ -255,3 +255,15 @@ In that case, an implementation for a related toy model is expected, along with 
 * [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
 * [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-I: Mathematical analysis and derivations"](https://doi.org/10.1016/j.jcpx.2019.100013)
 * [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-II: Implementation and examples"](https://doi.org/10.1016/j.jcpx.2019.100012)
+
+### Lecture 17: Introduction to low-rank methods
+
+**Summary**
+* Scale separation in gravity.
+  * Direct N-body using Newton's law for point masses.
+  * Poisson equation for gravitational potential using Gauss's law for continuous distributions.
+  * Both are limited in between: many point masses or well-separated distributions.
+  * Green's function gives integral equation for potential: low rank for well-separated distributions.
+* Singular value decomposition
+  * Basic definition and derivation.
+  * Optimal low-rank approximations using truncated SVDs. 
