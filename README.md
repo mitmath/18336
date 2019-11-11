@@ -42,9 +42,9 @@ Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
 
 The final project is a 10 page paper (using a LaTeX template to be provided) and a 15 minute presentation during the last week of classes.
 **The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
-The project can take the form a "reporting project" discussing a published algorithm, or a "research project" attempting to implement a new solver for a problem of your choice.
+The project can take the form a "lit. review project" discussing a published algorithm, or a "research project" attempting to implement a new solver for a problem of your choice.
 
-### Reporting projects
+### Lit. review projects
 
 One possibility is to review and implement an algorithm that was mentioned briefly or not covered in the course.
 Such a project should follow one or several published research papers describing the algorithm, along with a new implementation.
