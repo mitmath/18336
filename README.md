@@ -77,7 +77,7 @@ In that case, an implementation for a related toy model is expected, along with 
 
 ## Lecture Material and Summaries
 
-### Lecture 1: Introduction to Fast Methods, PDEs, IEs
+### Lecture 1: Introduction to fast methods, PDEs, IEs
 
 **Summary**
 * Course policies
@@ -278,3 +278,9 @@ In that case, an implementation for a related toy model is expected, along with 
   * Interpolation: merging measurements to compress the operator range.
   * Duality of projection and interpolation.
 * Numerically approximating the SVD using Gaussian elimination for matrices and functions.
+
+### Lecture 19: Fast multipole methods
+
+### Lecture 20: Boundary integral equations I
+
+### Lecture 21: Boundary integral equations II
