@@ -268,7 +268,7 @@ In that case, an implementation for a related toy model is expected, along with 
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
 
-### Lecture 18: Low-rank compressions
+### Lecture 18: Approximating low-rank interactions
 
 **Summary**
 * Fast matrix-vector products using low-rank approximations.
