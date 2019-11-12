@@ -267,3 +267,14 @@ In that case, an implementation for a related toy model is expected, along with 
 * Singular value decomposition
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
+
+### Lecture 18: Low-rank compressions
+
+**Summary**
+* Fast matrix-vector products using low-rank approximations.
+* Low-rank approximations to functions. Fast inner products for integral equations.
+* Low-rank nature of gravitational interaction.
+  * Projection: merging sources to compress the operator domain.
+  * Interpolation: merging measurements to compress the operator range.
+  * Duality of projection and interpolation.
+* Numerically approximating the SVD using Gaussian elimination for matrices and functions.
