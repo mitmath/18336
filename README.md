@@ -281,6 +281,12 @@ In that case, an implementation for a related toy model is expected, along with 
 
 ### Lecture 19: Fast multipole methods
 
+**Summary**
+* Analytical low-rank expansions using Taylor series.
+* 2D and 3D multipole expansions. Error estimates.
+* Hierarchical decompositions for error control.
+* Barnes-Hut and FMM in 2D. Comparison to direct methods.
+
 ### Lecture 20: Boundary integral equations I
 
 ### Lecture 21: Boundary integral equations II
