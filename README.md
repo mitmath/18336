@@ -312,3 +312,5 @@ In that case, an implementation for a related toy model is expected, along with 
   * Domains with corners. Diadic refinement.
 * Summary and comparison to PDE solvers.
 
+**Related Reading**
+* Martinsson: [Lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
