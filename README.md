@@ -287,6 +287,9 @@ In that case, an implementation for a related toy model is expected, along with 
 * Hierarchical decompositions for error control.
 * Barnes-Hut and FMM in 2D. Comparison to direct methods.
 
+**Related Reading**
+* [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
+
 ### Lecture 20: Boundary integral equations I
 
 **Summary**
@@ -297,6 +300,9 @@ In that case, an implementation for a related toy model is expected, along with 
   * Double-layer potentials.
 * Weakly singular kernels. Compact operators. First and second kind Fredholm integral equations. 
 * Discritizing BIEs. Quadrature on panels.
+
+**Related Reading**
+* [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
 ### Lecture 21: Boundary integral equations II
 
@@ -312,4 +318,4 @@ In that case, an implementation for a related toy model is expected, along with 
 * Summary and comparison to PDE solvers.
 
 **Related Reading**
-* Martinsson: [Lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
+* [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
