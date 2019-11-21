@@ -22,7 +22,6 @@ Problem sets will involve extensive coding and are required to be completed in *
 * Boyd "Chebyshev and Fourier Spectral Methods". Very readable and [available online](http://depts.washington.edu/ph506/Boyd.pdf).
 * LeVeque "Finite difference methods for ordinary and partial differential equations".
 * LeVeque "Finite volume methods for hyperbolic problems".
-* Martinsson: [Lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
 **Grading**: 50% problem sets (approximately biweekly), 50% final project report and presentation.
 
