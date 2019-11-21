@@ -264,7 +264,7 @@ In that case, an implementation for a related toy model is expected, along with 
   * Poisson equation for gravitational potential using Gauss's law for continuous distributions.
   * Both are limited in between: many point masses or well-separated distributions.
   * Green's function gives integral equation for potential: low rank for well-separated distributions.
-* Singular value decomposition
+* Singular value decomposition.
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
 
@@ -289,4 +289,25 @@ In that case, an implementation for a related toy model is expected, along with 
 
 ### Lecture 20: Boundary integral equations I
 
+**Summary**
+* From PDEs to integral equations: complicated boundaries, exterior problems.
+* Basic ideas from potential theory for Laplace equation:
+  * Fictitious charges.
+  * Single-layer potentials.
+  * Double-layer potentials.
+* Weakly singular kernels. Compact operators. First and second kind Fredholm integral equations. 
+* Discritizing BIEs. Quadrature on panels.
+
 ### Lecture 21: Boundary integral equations II
+
+**Summary**
+* BIEs for other equations:
+  * Stokes flow. Stokeslets and Stresslets.
+  * Linear elasticity.
+  * Helmholtz. Spurious resonances and combined field forms.
+  * Time-harmonic Maxwell.
+* Other challenges:
+  * Singular kernels.
+  * Domains with corners. Diadic refinement.
+* Summary and comparison to PDE solvers.
+
