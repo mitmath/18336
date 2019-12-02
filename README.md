@@ -40,7 +40,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
 
 ## Final Projets
 
-The final project is a 10 page paper (using a LaTeX template to be provided) and a 15 minute presentation during the last week of classes.
+The final project is a 10-15 page paper and a 15 minute presentation during the last week of classes.
 **The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
 The project can take the form a "lit. review project" discussing a published algorithm, or a "research project" attempting to implement a new solver for a problem of your choice.
 
@@ -74,6 +74,23 @@ This should include:
 The goal should be producing a functional solver matching or improving on existing techniques in certain cases.
 However, it is understood that this may not turn out to be feasible (or even possible), and that's what makes it research!
 In that case, an implementation for a related toy model is expected, along with an analysis of the barriers to making a solver for the original problem.
+
+### Report & presentation format
+
+Your report should be written in the style a SIAM article, using the [SIAM article LaTeX templates](https://www.siam.org/publications/journals/about-siam-journals/information-for-authors#LaTex2e-Standard).
+Your report should be between 10 and 15 pages.
+The SIAM layout is very spacious so this is not a lot of space, particularly if you have lots of images.
+Make sure your presentation and notation is concise!
+
+Along with your report, you must submit the code implementing your algorithms, preferably in the form of a Jupyter notebook.
+Make good use of headings, text, comments, and descriptive function/variables names.
+Good code is code that is easily understandable by others!
+
+Your report and presentation should both include:
+* background information for your algorithm / physical application, 
+* a review of other widely used approaches for the problem you're discussing,
+* a concise mathematical description of the algorithm you're using,
+* performance and error analysis of your implementation.
 
 ## Lecture Material and Summaries
 
