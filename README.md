@@ -87,10 +87,10 @@ Make good use of headings, text, comments, and descriptive function/variables na
 Good code is code that is easily understandable by others!
 
 Your report and presentation should both include:
-* background information for your algorithm / physical application, 
-* a review of other widely used approaches for the problem you're discussing,
-* a concise mathematical description of the algorithm you're using,
-* performance and error analysis of your implementation.
+* Background information for your algorithm / physical application.
+* A review of other widely used approaches for the problem you're discussing.
+* A concise mathematical description of the algorithm you're using.
+* Performance and error analysis of your implementation.
 
 ## Lecture Material and Summaries
 
