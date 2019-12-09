@@ -38,6 +38,9 @@ Available on Stellar. Due on Stellar by midnight on Thursday 10/17.
 ### Problem Set 3: Chebyshev Spectral Solvers.
 Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
 
+### Problem Set 4: Low-Rank Methods.
+Available on Stellar. Due on Stellar by midnight on Monday 12/09.
+
 ## Final Projets
 
 The final project is a 10-15 page paper and a 15 minute presentation during the last week of classes.
