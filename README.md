@@ -41,7 +41,7 @@ Available on Stellar. Due on Stellar by midnight on Thursday 11/14.
 ### Problem Set 4: Low-Rank Methods.
 Available on Stellar. Due on Stellar by midnight on Monday 12/09.
 
-## Final Projets
+## Final Projects
 
 The final project is a 10-15 page paper and a 15 minute presentation during the last week of classes.
 **The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
