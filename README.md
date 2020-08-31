@@ -1,4 +1,7 @@
-## 18.336J/6.335J: Fast Methods for Partial Differential and Integral Equations
+<h2 align="center">
+  MIT 18.336J/6.335J, Fall 2019 <br />
+  Fast Methods for Partial Differential and Integral Equations
+</h2>
 
 A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations.
 Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods.
