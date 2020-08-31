@@ -11,7 +11,7 @@ This semester we will focus in particular in Fourier and polynomial spectral met
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 9:30-11:00 am US easterm time via zoom (link on Canvas).
+**Lectures**: Tuesday/Thursday 9:30-11:00am US eastern time via zoom (link on Canvas).
 
 **Office Hours**: To be determined.
 
