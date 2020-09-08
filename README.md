@@ -32,6 +32,9 @@ Problem sets will involve extensive coding and are required to be completed in *
 
 ## Problem Sets
 
+### Problem Set 1: Fast Fourier Transforms.
+Due on Canvas by midnight on Thursday 09/17/2020.
+
 ## Final Projects
 
 ## Lecture Material and Summaries
