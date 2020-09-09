@@ -61,4 +61,13 @@ Due on Canvas by midnight on Thursday 09/17/2020.
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
 
+### Lecture 3: Some applications of FFTs
+
+**Summary**
+* Problem Set 1 assigned: due on Stellar by midnight on Thursday 09/17.
+* Sine, cosine, and other Fourier-related transforms.
+* Fast matrix-vector products using FFTs.
+  * Circulant matrices: diagonalization using DFT.
+  * Toeplitz matrices: embedding into circulant form.
+  * Hankel matrices: converison to Toeplitz form.
 
