@@ -80,3 +80,40 @@ Due on Canvas by midnight on Thursday 09/17/2020.
   * Dirichlet BCs using DSTs.
   * Neumann BCs using DCTs.
   * Gauge fixing.
+  
+### Lecture 5: Fast finite difference solvers in multiple dimensions
+
+**Summary**
+* Sylvester equations, Bartels-Stewart algorithm.
+* Kronecker products and block matrices.
+* Fast matrix-vector products with structured block matrices.
+* Fast Poisson solvers in multiple dimensions.
+* Extensions to other PDEs, e.g. Helmholtz.
+* Limitations and alternatives for non-constant coefficients.
+
+### Lecture 6: Domain decomposition methods
+
+**Summary**
+* Extensions to other domains.
+* Schur complement / Poincare-Steklov method for domain decomposition.
+  * Connecting two 1D segments.
+  * Connecting two 2D boxes.
+  * Heirarchical Poincare-Steklov method for multiple connections.
+* Distorted domains.
+
+**Related Reading**
+* [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
+
+### Lecture 7: Introduction to spectral methods
+
+**Summary**
+* Brief discussion on iterative methods.
+* Introduction to spectral methods.
+  * Spectral representations of functions.
+  * Rates of convergence.
+  * Truncation and discretization error.
+  * Convergence of Fourier series.
+
+**Related Reading**
+* Boyd chapters 1 & 2.
+
