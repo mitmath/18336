@@ -11,24 +11,27 @@ This semester we will focus in particular in Fourier and polynomial spectral met
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 9:30-11:00am US eastern time via zoom (link on Canvas).
+**Lectures**: Tuesday/Thursday 9:30-11:00 AM US eastern time via zoom (links on Canvas).
 
-**Office Hours**: To be determined.
+**Office Hours**: Tuesday/Thursday afternoons and by appointment via zoom (links on Canvas).
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
 It is strongly recommended that you have taken a previous course on basic numerical methods, such as [2.096/6.336/16.910](http://student.mit.edu/catalog/m6b.html#6.336), [2.097/6.339/16.920](http://student.mit.edu/catalog/m16b.html#16.920), [18.085](http://student.mit.edu/catalog/m18a.html#18.085), or [6.337/18.335](http://student.mit.edu/catalog/m18a.html#18.335).
 Problem sets will involve extensive coding and are required to be completed in **Python** or **Julia** notebooks.
 
-**Textbooks & Other Reading**: Recommended reading will be posted as the class progresses. There is no textbook for the course, but the following books may be useful:
+**Textbooks & Other Reading**: Recommended reading will be posted as the class progresses.
+There is no textbook for the course, but the following books may be useful:
 * Strauss "Partial Differential Equations: An Introduction". An advanced undergrad intrdouction to PDEs.
 * Boyd "Chebyshev and Fourier Spectral Methods". Very readable and [available online](http://depts.washington.edu/ph506/Boyd.pdf).
 * LeVeque "Finite difference methods for ordinary and partial differential equations".
 * LeVeque "Finite volume methods for hyperbolic problems".
 
 **Grading**: 50% problem sets (approximately biweekly), 50% final project report and presentation.
+Unless previous arrangements are made, late problem sets will be accepted for 1 week after the initial due date with a 50% penalty.
 
-**Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.  You must write up your own code and solutions, and indicate your collaborators on your assignments.
+**Collaboration Policy**: Make a strong effort to solve problems on your own before discussing with any classmates.
+You must write up your own code and solutions, and indicate your collaborators on your assignments.
 
 ## Problem Sets
 
