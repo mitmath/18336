@@ -38,6 +38,9 @@ You must write up your own code and solutions, and indicate your collaborators o
 ### Problem Set 1: Fast Fourier Transforms.
 Due on Canvas by midnight on Thursday 09/17/2020.
 
+### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers.
+Due on Canvas by midnight on Tuesday 10/06/2020.
+
 ## Final Projects
 
 ## Lecture Material and Summaries
