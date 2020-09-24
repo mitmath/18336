@@ -123,3 +123,15 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 **Related Reading**
 * Boyd chapters 1 & 2.
 
+### Lecture 8: Fourier spectral methods I
+
+**Summary**
+* Weighted residual method for discretizing PDEs.
+* Fourier solver for Poisson equation with periodic BCs.
+  * Comparison to finite difference solver. Eigenvalue corrections.
+* Fourier spectral collocation.
+* Sine and cosine solvers for Poisson equation with Dirichlet/Neumann BCs.
+  * Conditions on forcing for exponential convergence.
+
+**Related Reading**
+* Boyd chapter 3.
