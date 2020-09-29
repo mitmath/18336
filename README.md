@@ -135,3 +135,14 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 
 **Related Reading**
 * Boyd chapter 3.
+
+### Lecture 9: Fourier spectral methods II
+
+**Summary**
+* Parity mixing.
+* Extending to multiple dimensions via direct products.
+* Extending to systems of equations. Maintaining bandedness.
+* Pseudospectral method for evaluating nonlinearities.
+
+**Related Reading**
+* [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
