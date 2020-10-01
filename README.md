@@ -146,3 +146,12 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 
 **Related Reading**
 * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
+
+### Lecture 10: Polynomial interpolation I
+
+**Summary**
+* Wrap up: aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
+* For more general equations and boundary conditions, need to use polynomials.
+* Polynomial interpolation. Lagrange representation.
+* Lebesgue constant of equispaced points. Runge phenomenon.
+* Lebesgue constant of Chebyshev nodes.
