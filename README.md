@@ -151,7 +151,7 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 
 **Summary**
 * Wrap up: aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
-* For more general equations and boundary conditions, need to use polynomials.
 * Polynomial interpolation. Lagrange representation.
 * Lebesgue constant of equispaced points. Runge phenomenon.
 * Lebesgue constant of Chebyshev nodes.
+* Overview of Chebyshev polynomials.
