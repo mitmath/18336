@@ -155,3 +155,11 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 * Lebesgue constant of equispaced points. Runge phenomenon.
 * Lebesgue constant of Chebyshev nodes.
 * Overview of Chebyshev polynomials.
+
+### Lecture 11: Polynomial interpolation II
+
+**Summary**
+* Convergence of Chebyshev series. Singularities in elliptical coordinates.
+* Gaussian quadrature. Deriving nodes and weights.
+* Discretization error from polynomial interpolation on Gaussian quadrature nodes.
+* Convergence of Gegenbauer polynomials. Legendre polynomials and finite elements.
