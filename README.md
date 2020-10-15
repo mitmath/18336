@@ -176,9 +176,9 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 
 **Summary**
 * Rectangular collocation. Generalized tau equivalence.
+* Newton's method in function space for nonlinear ODEs.
 * Chebyshev recursion formulae.
 * T-to-T matrices for differentiation.
-* T-to-T matrices for multiplication. Band-limited expansions.
 
 **Related Reading**
 * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
@@ -186,6 +186,7 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 ### Lecture 14: Sparse Chebyshev spectral methods
 
 **Summary**
+* T-to-T matrices for multiplication. Band-limited expansions.
 * Classical tau method for boundary conditions.
 * Chebyshev-T derivatives are Chebyshev-U polynomials.
 * T-to-U differentiation and conversion matrices.
@@ -198,7 +199,6 @@ Due on Canvas by midnight on Tuesday 10/06/2020.
 * Differentiation and conversion between ultraspherical polynomials.
 * Ultraspherical method for arbitrary-order linear ODEs. Generalized tau equivalence.
 * Woodbury matrix identity for banded + multi-bordered matrices.
-* Newton's method in function space for nonlinear ODEs.
 * Polynomial spectral methods in multiple dimensions:
   * Chebyshev x Chebyshev, alternating direction implicit scheme
   
