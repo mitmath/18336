@@ -41,7 +41,61 @@ Due on Canvas by midnight on Thursday 09/17/2020.
 ### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers.
 Due on Canvas by midnight on Tuesday 10/06/2020.
 
+### Problem Set 3: Chebyshev Spectral Solvers.
+Due on Canvas by midnight on Tuesday 10/27/2002.
+
 ## Final Projects
+
+The final project is a 10-15 page paper and a 20 minute presentation during the last week of classes.
+**The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
+The project can take the form a "literature review project" discussing a published algorithm or a "research project" attempting to implement a new solver for a problem of your choice.
+
+### Lit. review projects
+
+One possibility is to review and implement an algorithm that was mentioned briefly or not covered in the course.
+Such a project should follow one or several published research papers describing the algorithm, along with a new implementation.
+Possible topics and suggested papers include:
+* Advanced optimizations for production-level FFT implementations.
+  * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf)
+* Hierarchical Poincare-Steklov schemes using Chebyshev polynomails.
+  * [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
+* Parity-mixing in sine/cosine solvers.
+  * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
+* Rectangular collocation with aliasing analysis.
+  * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
+* Alternating direction implicit scheme for multidimensional Chebyshev Poisson solvers.
+  * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
+* Non-uniform Fast Fourier Transforms.
+  * [Barnett et al. "A parallel non-uniform fast Fourier transform library based on an 'exponential of semicircle' kernel"](https://arxiv.org/abs/1808.06736)
+  
+### Research projects
+  
+Another option is to use the methods covered in class to implement a fast solver for a research problem in your field.
+This should include:
+* A discussion of the scientific problem and a brief derivation of the model PDE.
+* Mention of the current commonly used methods in the field for the problem.
+* A fast implementation of a new solver for the problem, or a related first-step.
+* Discussion of the prospects and limitations of fast/high-order techniques for this problem in the future.
+
+The goal should be producing a functional solver matching or improving on existing techniques in certain cases.
+However, it is understood that this may not turn out to be feasible (or even possible), and that's what makes it research!
+In that case, an implementation for a related toy model is expected, along with an analysis of the barriers to making a solver for the original problem.
+
+### Report & presentation format
+
+Your report should be written in the style a SIAM article, using the [SIAM article LaTeX templates](https://www.siam.org/publications/journals/about-siam-journals/information-for-authors#LaTex2e-Standard).
+Your report should be between 10 and 15 pages.
+The SIAM layout is very spacious so this is not a lot of space, particularly if you have lots of images.
+Make sure your presentation and notation is concise!
+
+Along with your report, you must submit the code implementing your algorithms, preferably in the form of a Jupyter notebook.
+Make good use of headings, text, comments, and descriptive function/variables names.
+Good code is code that is easily understandable by others!
+
+Your report and presentation should both include:
+* Background information for your algorithm / physical application.
+* A concise mathematical description of the algorithm you're using.
+* Performance and error analysis of your implementation.
 
 ## Lecture Material and Summaries
 
