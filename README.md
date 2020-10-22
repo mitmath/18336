@@ -253,8 +253,10 @@ Your report and presentation should both include:
 * Differentiation and conversion between ultraspherical polynomials.
 * Ultraspherical method for arbitrary-order linear ODEs. Generalized tau equivalence.
 * Woodbury matrix identity for banded + multi-bordered matrices.
+* Pseudospectral method for nonlinear IVPs.
 * Polynomial spectral methods in multiple dimensions:
-  * Chebyshev x Chebyshev, alternating direction implicit scheme
+  * Chebyshev-Chebyshev, alternating direction implicit scheme
+  * Fourier-Chebyshev for periodic layers, cylinders, etc.
   
 **Related Reading**
 * [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
@@ -263,8 +265,6 @@ Your report and presentation should both include:
 ### Lecture 16: Multidimensional spectral methods
 
 **Summary**
-* Fourier-Chebyshev multidimensional discretizations for periodic laters, cylinders, etc.
-* Pseudospectral method for nonlinear IVPs.
 * Block-banded formulation for systems of equations.
 * Example: incompressible Navier-Stokes without splitting.
 * Spectral methods with coordinate singularities:
