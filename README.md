@@ -267,10 +267,10 @@ Your report and presentation should both include:
 **Summary**
 * Block-banded formulation for systems of equations.
 * Example: incompressible Navier-Stokes without splitting.
+* Examples using the Dedalus code.
 * Spectral methods with coordinate singularities:
   * Non-smoothness of vector/tensor components.
   * Radial regularity of Fourier components in polar coordinates.
-  * Disk bases incorporating regularity. 
   
 **Related Reading**
 * [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
@@ -280,6 +280,7 @@ Your report and presentation should both include:
 ### Lecture 17: Introduction to low-rank methods
 
 **Summary**
+* Disk bases incorporating regularity. 
 * Scale separation in gravity.
   * Direct N-body using Newton's law for point masses.
   * Poisson equation for gravitational potential using Gauss's law for continuous distributions.
