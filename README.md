@@ -274,13 +274,22 @@ Your report and presentation should both include:
   
 **Related Reading**
 * [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
+
+### Lecture 17: Spectral methods in singular coordinate systems
+
+**Summary**
+* Radial regularity of vector/tensor components in polar coordinates.
+* Modified Jacobi bases for tensors in the disk.
+* Spin-weighted spherical harmonics for tensors on the sphere.
+* Examples using the Dedalus code.
+
+**Related Reading**
 * [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-I: Mathematical analysis and derivations"](https://doi.org/10.1016/j.jcpx.2019.100013)
 * [Lecoanet et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-II: Implementation and examples"](https://doi.org/10.1016/j.jcpx.2019.100012)
 
-### Lecture 17: Introduction to low-rank methods
+### Lecture 18: Introduction to low-rank methods
 
 **Summary**
-* Disk bases incorporating regularity. 
 * Scale separation in gravity.
   * Direct N-body using Newton's law for point masses.
   * Poisson equation for gravitational potential using Gauss's law for continuous distributions.
@@ -290,7 +299,7 @@ Your report and presentation should both include:
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
 
-### Lecture 18: Approximating low-rank interactions
+### Lecture 19: Approximating low-rank interactions
 
 **Summary**
 * Fast matrix-vector products using low-rank approximations.
@@ -301,7 +310,7 @@ Your report and presentation should both include:
   * Duality of projection and interpolation.
 * Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 
-### Lecture 19: Fast multipole methods
+### Lecture 20: Fast multipole methods
 
 **Summary**
 * Analytical low-rank expansions using Taylor series.
@@ -312,7 +321,7 @@ Your report and presentation should both include:
 **Related Reading**
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
 
-### Lecture 20: Boundary integral equations I
+### Lecture 21: Boundary integral equations I
 
 **Summary**
 * From PDEs to integral equations: complicated boundaries, exterior problems.
@@ -326,7 +335,7 @@ Your report and presentation should both include:
 **Related Reading**
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
-### Lecture 21: Boundary integral equations II
+### Lecture 22: Boundary integral equations II
 
 **Summary**
 * BIEs for other equations:
