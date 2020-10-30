@@ -42,7 +42,10 @@ Due on Canvas by midnight on Thursday 09/17/2020.
 Due on Canvas by midnight on Tuesday 10/06/2020.
 
 ### Problem Set 3: Chebyshev Spectral Solvers.
-Due on Canvas by midnight on Tuesday 10/27/2002.
+Due on Canvas by midnight on Tuesday 10/27/2020.
+
+### Problem Set 4: Ultraspherical Solvers.
+Due on Canvas by midnight on Tuesday 11/10/2020.
 
 ## Final Projects
 
