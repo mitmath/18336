@@ -333,7 +333,6 @@ Your report and presentation should both include:
   * Single-layer potentials.
   * Double-layer potentials.
 * Weakly singular kernels. Compact operators. First and second kind Fredholm integral equations. 
-* Discritizing BIEs. Quadrature on panels.
 
 **Related Reading**
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
@@ -341,14 +340,21 @@ Your report and presentation should both include:
 ### Lecture 22: Boundary integral equations II
 
 **Summary**
+* Discritizing BIEs. Quadrature on panels.
+* Domains with corners. Diadic refinement.
+* Singular kernels.
+
+**Related Reading**
+* [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
+
+### Lecture 23: Boundary integral equations III
+
+**Summary**
 * BIEs for other equations:
   * Stokes flow. Stokeslets and Stresslets.
   * Linear elasticity.
   * Helmholtz. Spurious resonances and combined field forms.
   * Time-harmonic Maxwell.
-* Other challenges:
-  * Singular kernels.
-  * Domains with corners. Diadic refinement.
 * Summary and comparison to PDE solvers.
 
 **Related Reading**
