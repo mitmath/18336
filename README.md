@@ -324,7 +324,7 @@ Your report and presentation should both include:
 **Related Reading**
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
 
-### Lecture 21: Boundary integral equations I
+### Lecture 21: Formulating boundary integral equations
 
 **Summary**
 * From PDEs to integral equations: complicated boundaries, exterior problems.
@@ -337,17 +337,18 @@ Your report and presentation should both include:
 **Related Reading**
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
-### Lecture 22: Boundary integral equations II
+### Lecture 22: Discretizing boundary integral equations
 
 **Summary**
-* Discritizing BIEs. Quadrature on panels.
+* Global quadrature discretizations.
+* Quadrature for weakly singular kernels.
+* Panel-based discretizations.
 * Domains with corners. Diadic refinement.
-* Singular kernels.
 
 **Related Reading**
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
-### Lecture 23: Boundary integral equations III
+### Lecture 23: Advanced boundary integral equations
 
 **Summary**
 * BIEs for other equations:
