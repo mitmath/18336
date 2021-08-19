@@ -1,19 +1,21 @@
 <h2 align="center">
-  MIT 18.336J/6.335J, Fall 2020 <br />
+  MIT 18.336J/6.335J, Fall 2021 <br />
   Fast Methods for Partial Differential and Integral Equations
 </h2>
 
-A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations.
-Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods.
-Example applications include: aircraft design, cardiovascular system modeling, electronic structure computation, and tomographic imaging.
+This course broadly covers modern numerical methods for solving large-scale partial differential and integral equations.
+The focus varies year to year and is often updated to include state-of-the-art techniques.
+This semester we will foucs in particular on Fourier and modern polynomial spectral methods, the fast multipole method, boundary integral equations, and applications to fluid dynamics and electromagnetism.
 
-This semester we will focus in particular in Fourier and polynomial spectral methods, FMM, methods for integral equations, and applications to fluid dynamics and electromagnetism.
+Catalog description: *A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations.
+Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods.
+Example applications include: aircraft design, cardiovascular system modeling, electronic structure computation, and tomographic imaging.*
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 9:30-11:00 AM US eastern time via zoom (links on Canvas).
+**Lectures**: Tuesday/Thursday 11:00-12:30 AM, room 2-131.
 
-**Office Hours**: Tuesday/Thursday afternoons and by appointment via zoom (links on Canvas).
+**Office Hours**: Tuesday/Thursday afternoons and by appointment.
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
@@ -22,7 +24,7 @@ Problem sets will involve extensive coding and are required to be completed in *
 
 **Textbooks & Other Reading**: Recommended reading will be posted as the class progresses.
 There is no textbook for the course, but the following books may be useful:
-* Strauss "Partial Differential Equations: An Introduction". An advanced undergrad intrdouction to PDEs.
+* Strauss "Partial Differential Equations: An Introduction". An advanced undergrad introduction to PDEs.
 * Boyd "Chebyshev and Fourier Spectral Methods". Very readable and [available online](http://depts.washington.edu/ph506/Boyd.pdf).
 * LeVeque "Finite difference methods for ordinary and partial differential equations".
 * LeVeque "Finite volume methods for hyperbolic problems".
@@ -36,16 +38,18 @@ You must write up your own code and solutions, and indicate your collaborators o
 ## Problem Sets
 
 ### Problem Set 1: Fast Fourier Transforms.
-Due on Canvas by midnight on Thursday 09/17/2020.
+<!-- Due on Canvas by midnight on Thursday 09/17/2020. -->
 
 ### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers.
-Due on Canvas by midnight on Tuesday 10/06/2020.
+<!-- Due on Canvas by midnight on Tuesday 10/06/2020. -->
 
 ### Problem Set 3: Chebyshev Spectral Solvers.
-Due on Canvas by midnight on Tuesday 10/27/2020.
+<!-- Due on Canvas by midnight on Tuesday 10/27/2020. -->
 
 ### Problem Set 4: Ultraspherical Solvers.
-Due on Canvas by midnight on Tuesday 11/10/2020.
+<!-- Due on Canvas by midnight on Tuesday 11/10/2020. -->
+
+### Problem Set 5: Low-Rank Methods.
 
 ## Final Projects
 
