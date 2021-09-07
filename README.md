@@ -13,9 +13,9 @@ Example applications include: aircraft design, cardiovascular system modeling, e
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 11:00-12:30 AM, room 2-131.
+**Lectures**: Tuesday/Thursday 11:00-12:30 PM in room 2-131.
 
-**Office Hours**: Tuesday/Thursday afternoons and by appointment.
+**Office Hours**: In-person times TBD, by appointment via zoom.
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
