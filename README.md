@@ -26,8 +26,8 @@ Problem sets will involve extensive coding and are required to be completed in *
 There is no textbook for the course, but the following books may be useful:
 * Strauss "Partial Differential Equations: An Introduction". An advanced undergrad introduction to PDEs.
 * Boyd "Chebyshev and Fourier Spectral Methods". Very readable and [available online](http://depts.washington.edu/ph506/Boyd.pdf).
+* [Martinsson "Fast Direct Solvers for Elliptic PDEs"](https://doi.org/10.1137/1.9781611976045). Modern and concise.
 * LeVeque "Finite difference methods for ordinary and partial differential equations".
-* LeVeque "Finite volume methods for hyperbolic problems".
 
 **Grading**: 50% problem sets (approximately biweekly), 50% final project report and presentation.
 Unless previous arrangements are made, late problem sets will be accepted for 1 week after the initial due date with a 50% penalty.
@@ -38,18 +38,24 @@ You must write up your own code and solutions, and indicate your collaborators o
 ## Problem Sets
 
 ### Problem Set 1: Fast Fourier Transforms.
+<!-- Due on Canvas by midnight on Thursday 09/23/2021. -->
 <!-- Due on Canvas by midnight on Thursday 09/17/2020. -->
 
 ### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers.
+<!-- Due on Canvas by midnight on Thursday 10/14/2021. -->
 <!-- Due on Canvas by midnight on Tuesday 10/06/2020. -->
 
 ### Problem Set 3: Chebyshev Spectral Solvers.
+<!-- Due on Canvas by midnight on Thursday 10/28/2021. -->
 <!-- Due on Canvas by midnight on Tuesday 10/27/2020. -->
 
 ### Problem Set 4: Ultraspherical Solvers.
+<!-- Due on Canvas by midnight on Thursday 11/4/2021. -->
 <!-- Due on Canvas by midnight on Tuesday 11/10/2020. -->
 
 ### Problem Set 5: Low-Rank Methods.
+<!-- Due on Canvas by midnight on Tuesday 11/23/2021. -->
+<!-- Due on Canvas by midnight on Thursday 11/19/2020. -->
 
 ## Final Projects
 
@@ -107,6 +113,7 @@ Your report and presentation should both include:
 ## Lecture Material and Summaries
 
 ### Lecture 1: Introduction to fast methods, PDEs, IEs
+<!-- Thursday Sept 9 -->
 
 **Summary**
 * Course policies
@@ -118,6 +125,8 @@ Your report and presentation should both include:
 * [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
 ### Lecture 2: Fast Fourier transforms
+<!-- Tuesday Sept 14 -->
+<!-- Necessary for pset 1 -->
 
 **Summary**
 * Continuous FT, discrete FT.
@@ -129,9 +138,9 @@ Your report and presentation should both include:
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
 
 ### Lecture 3: Some applications of FFTs
+<!-- Thursday Sept 16 -->
 
 **Summary**
-* Problem Set 1 assigned: due on Stellar by midnight on Thursday 09/17.
 * Sine, cosine, and other Fourier-related transforms.
 * Fast matrix-vector products using FFTs.
   * Circulant matrices: diagonalization using DFT.
@@ -139,6 +148,7 @@ Your report and presentation should both include:
   * Hankel matrices: converison to Toeplitz form.
 
 ### Lecture 4: Finite differences and fast Poisson solvers in 1D
+<!-- Tuesday Sept 21 -->
 
 **Summary**
 * Review of finite difference methods.
@@ -149,6 +159,7 @@ Your report and presentation should both include:
   * Gauge fixing.
   
 ### Lecture 5: Fast finite difference solvers in multiple dimensions
+<!-- Thursday Sept 23 -->
 
 **Summary**
 * Sylvester equations, Bartels-Stewart algorithm.
@@ -159,6 +170,7 @@ Your report and presentation should both include:
 * Limitations and alternatives for non-constant coefficients.
 
 ### Lecture 6: Domain decomposition methods
+<!-- Tuesday Sept 28 -->
 
 **Summary**
 * Extensions to other domains.
@@ -172,6 +184,7 @@ Your report and presentation should both include:
 * [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
 
 ### Lecture 7: Introduction to spectral methods
+<!-- Thursday Sept 30 -->
 
 **Summary**
 * Brief discussion on iterative methods.
@@ -185,6 +198,7 @@ Your report and presentation should both include:
 * Boyd chapters 1 & 2.
 
 ### Lecture 8: Fourier spectral methods I
+<!-- Tuesday October 5 -->
 
 **Summary**
 * Weighted residual method for discretizing PDEs.
@@ -198,6 +212,8 @@ Your report and presentation should both include:
 * Boyd chapter 3.
 
 ### Lecture 9: Fourier spectral methods II
+<!-- Thursday October 7 -->
+<!-- Necessary for pset 2 -->
 
 **Summary**
 * Parity mixing.
@@ -209,6 +225,7 @@ Your report and presentation should both include:
 * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
 
 ### Lecture 10: Polynomial interpolation I
+<!-- Tuesday October 12 -->
 
 **Summary**
 * Wrap up: aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
@@ -218,6 +235,7 @@ Your report and presentation should both include:
 * Overview of Chebyshev polynomials.
 
 ### Lecture 11: Polynomial interpolation II
+<!-- Thursday October 14 -->
 
 **Summary**
 * Convergence of Chebyshev series. Singularities in elliptical coordinates.
@@ -226,6 +244,7 @@ Your report and presentation should both include:
 * Convergence of Gegenbauer polynomials. Legendre polynomials and finite elements.
 
 ### Lecture 12: Chebyshev collocation methods
+<!-- Tuesday October 19 -->
 
 **Summary**
 * Collocation matrices for differentiation.
@@ -234,6 +253,8 @@ Your report and presentation should both include:
 * Boundary bordering. Generalized tau equivalence.
 
 ### Lecture 13: Dense Chebyshev spectral methods
+<!-- Thursday October 21 -->
+<!-- Necessary for pset 3 -->
 
 **Summary**
 * Rectangular collocation. Generalized tau equivalence.
@@ -245,6 +266,7 @@ Your report and presentation should both include:
 * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
 
 ### Lecture 14: Sparse Chebyshev spectral methods
+<!-- Tuesday October 26 -->
 
 **Summary**
 * T-to-T matrices for multiplication. Band-limited expansions.
@@ -255,6 +277,8 @@ Your report and presentation should both include:
 * Sherman-Morrison formula for banded + bordered matrices.
 
 ### Lecture 15: Ultraspherical method
+<!-- Thursday October 28 -->
+<!-- Necessary for pset 4 -->
 
 **Summary**
 * Differentiation and conversion between ultraspherical polynomials.
@@ -270,6 +294,7 @@ Your report and presentation should both include:
 * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
 
 ### Lecture 16: Multidimensional spectral methods
+<!-- Tuesday November 2 -->
 
 **Summary**
 * Block-banded formulation for systems of equations.
@@ -283,6 +308,7 @@ Your report and presentation should both include:
 * [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
 
 ### Lecture 17: Spectral methods in singular coordinate systems
+<!-- Thursday November 4 -->
 
 **Summary**
 * Radial regularity of vector/tensor components in polar coordinates.
@@ -295,6 +321,7 @@ Your report and presentation should both include:
 * [Lecoanet et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-II: Implementation and examples"](https://doi.org/10.1016/j.jcpx.2019.100012)
 
 ### Lecture 18: Introduction to low-rank methods
+<!-- Tuesday November 9 -->
 
 **Summary**
 * Scale separation in gravity.
@@ -307,6 +334,8 @@ Your report and presentation should both include:
   * Optimal low-rank approximations using truncated SVDs. 
 
 ### Lecture 19: Approximating low-rank interactions
+<!-- Tuesday November 16 -->
+<!-- Necessary for pset 5 -->
 
 **Summary**
 * Fast matrix-vector products using low-rank approximations.
@@ -318,6 +347,7 @@ Your report and presentation should both include:
 * Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 
 ### Lecture 20: Fast multipole methods
+<!-- Thursday November 18 -->
 
 **Summary**
 * Analytical low-rank expansions using Taylor series.
@@ -329,6 +359,7 @@ Your report and presentation should both include:
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
 
 ### Lecture 21: Formulating boundary integral equations
+<!-- Tuesday November 30 -->
 
 **Summary**
 * From PDEs to integral equations: complicated boundaries, exterior problems.
@@ -342,6 +373,7 @@ Your report and presentation should both include:
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
 ### Lecture 22: Discretizing boundary integral equations
+<!-- Thursday December 2 -->
 
 **Summary**
 * Global quadrature discretizations.
@@ -353,6 +385,7 @@ Your report and presentation should both include:
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
 ### Lecture 23: Advanced boundary integral equations
+<!-- Tuesday December 7 -->
 
 **Summary**
 * BIEs for other equations:
@@ -364,3 +397,7 @@ Your report and presentation should both include:
 
 **Related Reading**
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
+
+<!-- Presentation day 1: Thursday December 2 -->
+<!-- Presentation day 2: Tuesday December 7 -->
+<!-- Presentation day 3: Thursday December 9 -->
