@@ -124,7 +124,7 @@ Your report and presentation should both include:
 **Related Reading**
 * [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
-### Lecture 2: Fast Fourier transforms
+### Lecture 2: Fourier transforms
 <!-- Tuesday Sept 14 -->
 <!-- Necessary for pset 1 -->
 
@@ -133,6 +133,7 @@ Your report and presentation should both include:
 * History of FFTs. Facts that make FFTs possible.
 * Radix-2 Cooley-Tukey algorithm.
 * Radix-3 and algorithms for prime N.
+* Sine, cosine, and other Fourier-related transforms.
 
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
@@ -141,7 +142,6 @@ Your report and presentation should both include:
 <!-- Thursday Sept 16 -->
 
 **Summary**
-* Sine, cosine, and other Fourier-related transforms.
 * Fast matrix-vector products using FFTs.
   * Circulant matrices: diagonalization using DFT.
   * Toeplitz matrices: embedding into circulant form.
