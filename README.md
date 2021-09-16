@@ -122,7 +122,7 @@ Your report and presentation should both include:
 * Why integral equations? Better conditioning from using exact solution formulae.
 
 **Related Reading**
-* [Top ten algorithms of the 20th century](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
+* [Cipra "Top ten algorithms of the 20th century"](https://github.com/mitmath/18336/blob/master/readings/siam_news_top_10_algorithms.pdf)
 
 ### Lecture 2: Fourier transforms
 <!-- Tuesday Sept 14 -->
