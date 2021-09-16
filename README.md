@@ -138,11 +138,15 @@ Your report and presentation should both include:
 **Related Reading**
 * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
 
-### Lecture 3: Some applications of FFTs
+### Lecture 3: PDE discretization and preconditioning
 <!-- Thursday Sept 16 -->
 
 **Summary**
-* Fast matrix-vector products using FFTs.
+* Discretizing linear boundary value problems.
+* Discretizing nonlinear / initial value problems.
+* Direct solvers and their complexity.
+* Iterative solvers and their convergence.
+* Fourier preconditioning using FFTs.
   * Circulant matrices: diagonalization using DFT.
   * Toeplitz matrices: embedding into circulant form.
   * Hankel matrices: converison to Toeplitz form.
