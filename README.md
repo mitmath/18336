@@ -168,7 +168,7 @@ Your report and presentation should both include:
 **Summary**
 * Sylvester equations, Bartels-Stewart algorithm.
 * Kronecker products and block matrices.
-* Fast matrix-vector products with structured block matrices.
+* Fast linear algebra with structured block matrices.
 * Fast Poisson solvers in multiple dimensions.
 * Extensions to other PDEs, e.g. Helmholtz.
 * Limitations and alternatives for non-constant coefficients.
