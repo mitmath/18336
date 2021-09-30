@@ -191,12 +191,10 @@ Your report and presentation should both include:
 <!-- Thursday Sept 30 -->
 
 **Summary**
-* Brief discussion on iterative methods.
-* Introduction to spectral methods.
-  * Spectral representations of functions.
-  * Rates of convergence.
-  * Truncation and discretization error.
-  * Convergence of Fourier series.
+* Spectral representations of functions.
+* Rates of convergence.
+* Truncation and discretization error.
+* Convergence of Fourier series.
 
 **Related Reading**
 * Boyd chapters 1 & 2.
@@ -402,6 +400,7 @@ Your report and presentation should both include:
 **Related Reading**
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
-<!-- Presentation day 1: Thursday December 2 -->
-<!-- Presentation day 2: Tuesday December 7 -->
-<!-- Presentation day 3: Thursday December 9 -->
+<!-- Presentation day 1: Tuesday November 30 -->
+<!-- Presentation day 2: Thursday December 2 -->
+<!-- Presentation day 3: Tuesday December 7 -->
+<!-- Presentation day 4: Thursday December 9 -->
