@@ -209,28 +209,26 @@ Your report and presentation should both include:
 * Fourier spectral collocation.
 * Sine and cosine solvers for Poisson equation with Dirichlet/Neumann BCs.
   * Conditions on forcing for exponential convergence.
+  * Parity mixing.
 
 **Related Reading**
 * Boyd chapter 3.
+* [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
 
 ### Lecture 9: Fourier spectral methods II
 <!-- Thursday October 7 -->
 <!-- Necessary for pset 2 -->
 
 **Summary**
-* Parity mixing.
 * Extending to multiple dimensions via direct products.
 * Extending to systems of equations. Maintaining bandedness.
 * Pseudospectral method for evaluating nonlinearities.
-
-**Related Reading**
-* [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
+* Aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
 
 ### Lecture 10: Polynomial interpolation I
 <!-- Tuesday October 12 -->
 
 **Summary**
-* Wrap up: aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
 * Polynomial interpolation. Lagrange representation.
 * Lebesgue constant of equispaced points. Runge phenomenon.
 * Lebesgue constant of Chebyshev nodes.
