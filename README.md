@@ -224,6 +224,7 @@ Your report and presentation should both include:
 * Extending to systems of equations. Maintaining bandedness.
 * Pseudospectral method for evaluating nonlinearities.
 * Aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
+* Examples: Dedalus code, Yeung group turbulence simulations.
 
 **Related Reading**
 * [Yeung & Ravikumar "Advancing understanding of turbulence through extreme-scale computation: Intermittency and simulations at large problem sizes"](https://github.com/mitmath/18336/blob/master/readings/yeung_fourier_turbulence.pdf)
