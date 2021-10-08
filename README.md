@@ -225,6 +225,9 @@ Your report and presentation should both include:
 * Pseudospectral method for evaluating nonlinearities.
 * Aliasing errors, dealiasing rules for arbitrary-order nonlinearities.
 
+**Related Reading**
+* [Yeung & Ravikumar "Advancing understanding of turbulence through extreme-scale computation: Intermittency and simulations at large problem sizes"](https://github.com/mitmath/18336/blob/master/readings/yeung_fourier_turbulence.pdf)
+
 ### Lecture 10: Polynomial interpolation I
 <!-- Tuesday October 12 -->
 
