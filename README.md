@@ -229,42 +229,48 @@ Your report and presentation should both include:
 **Related Reading**
 * [Yeung & Ravikumar "Advancing understanding of turbulence through extreme-scale computation: Intermittency and simulations at large problem sizes"](https://github.com/mitmath/18336/blob/master/readings/yeung_fourier_turbulence.pdf)
 
-### Lecture 10: Polynomial interpolation I
+### Lecture 10: Polynomial interpolation
 <!-- Tuesday October 12 -->
 
 **Summary**
-* Polynomial interpolation. Lagrange representation.
-* Lebesgue constant of equispaced points. Runge phenomenon.
-* Lebesgue constant of Chebyshev nodes.
-* Overview of Chebyshev polynomials.
+* Polynomial interpolation.
+  * Lagrange representation.
+  * Lebesgue constant of equispaced points. Runge phenomenon.
+  * Lebesgue constant of Chebyshev nodes.
+* Overview of orthogonal polynomials.
+  * Chebyshev polynomials.
+  * Convergence of Chebyshev series. Singularities in elliptical coordinates.
+* Gaussian quadrature.
+  * Deriving nodes and weights.
+  * Discretization error from polynomial interpolation on Gaussian quadrature nodes.
 
-### Lecture 11: Polynomial interpolation II
+**Related Reading**
+* Boyd chapter 4.
+
+### Lecture 11: Chebyshev collocation methods
 <!-- Thursday October 14 -->
 
 **Summary**
-* Convergence of Chebyshev series. Singularities in elliptical coordinates.
-* Gaussian quadrature. Deriving nodes and weights.
-* Discretization error from polynomial interpolation on Gaussian quadrature nodes.
 * Convergence of Gegenbauer polynomials. Legendre polynomials and finite elements.
-
-### Lecture 12: Chebyshev collocation methods
-<!-- Tuesday October 19 -->
-
-**Summary**
 * Collocation matrices for differentiation.
 * Collocation matrices for multiplication.  Aliasing errors.
 * Roots vs extrema grid.
 * Boundary bordering. Generalized tau equivalence.
+* Rectangular collocation. Generalized tau equivalence.
 
-### Lecture 13: Dense Chebyshev spectral methods
-<!-- Thursday October 21 -->
+### Lecture 12: Dense Chebyshev spectral methods
+<!-- Tuesday October 19 -->
 <!-- Necessary for pset 3 -->
 
 **Summary**
-* Rectangular collocation. Generalized tau equivalence.
 * Newton's method in function space for nonlinear ODEs.
 * Chebyshev recursion formulae.
 * T-to-T matrices for differentiation.
+* T-to-T matrices for multiplication. Band-limited expansions.
+* Classical tau method for boundary conditions.
+
+### Lecture 13: 
+<!-- Thursday October 21 -->
 
 **Related Reading**
 * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
@@ -273,8 +279,6 @@ Your report and presentation should both include:
 <!-- Tuesday October 26 -->
 
 **Summary**
-* T-to-T matrices for multiplication. Band-limited expansions.
-* Classical tau method for boundary conditions.
 * Chebyshev-T derivatives are Chebyshev-U polynomials.
 * T-to-U differentiation and conversion matrices.
 * Sparse T-to-U method. Generalized tau equivalence.
