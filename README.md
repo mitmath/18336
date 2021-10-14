@@ -258,6 +258,9 @@ Your report and presentation should both include:
 * Boundary bordering. Generalized tau equivalence.
 * Rectangular collocation. Generalized tau equivalence.
 
+**Related Reading**
+* [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
+
 ### Lecture 12: Dense Chebyshev spectral methods
 <!-- Tuesday October 19 -->
 <!-- Necessary for pset 3 -->
@@ -271,9 +274,6 @@ Your report and presentation should both include:
 
 ### Lecture 13: 
 <!-- Thursday October 21 -->
-
-**Related Reading**
-* [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
 
 ### Lecture 14: Sparse Chebyshev spectral methods
 <!-- Tuesday October 26 -->
