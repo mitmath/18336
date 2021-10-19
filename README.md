@@ -272,11 +272,9 @@ Your report and presentation should both include:
 * T-to-T matrices for multiplication. Band-limited expansions.
 * Classical tau method for boundary conditions.
 
-### Lecture 13: 
+### Lecture 13: Sparse Chebyshev spectral methods
 <!-- Thursday October 21 -->
 
-### Lecture 14: Sparse Chebyshev spectral methods
-<!-- Tuesday October 26 -->
 
 **Summary**
 * Chebyshev-T derivatives are Chebyshev-U polynomials.
@@ -284,8 +282,8 @@ Your report and presentation should both include:
 * Sparse T-to-U method. Generalized tau equivalence.
 * Sherman-Morrison formula for banded + bordered matrices.
 
-### Lecture 15: Ultraspherical method
-<!-- Thursday October 28 -->
+### Lecture 14: Ultraspherical method
+<!-- Tuesday October 26 -->
 <!-- Necessary for pset 4 -->
 
 **Summary**
@@ -301,8 +299,8 @@ Your report and presentation should both include:
 * [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
 * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
 
-### Lecture 16: Multidimensional spectral methods
-<!-- Tuesday November 2 -->
+### Lecture 15: Multidimensional spectral methods
+<!-- Thursday October 28 -->
 
 **Summary**
 * Block-banded formulation for systems of equations.
@@ -315,8 +313,8 @@ Your report and presentation should both include:
 **Related Reading**
 * [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
 
-### Lecture 17: Spectral methods in singular coordinate systems
-<!-- Thursday November 4 -->
+### Lecture 16: Spectral methods in singular coordinate systems
+<!-- Tuesday November 2 -->
 
 **Summary**
 * Radial regularity of vector/tensor components in polar coordinates.
@@ -328,8 +326,8 @@ Your report and presentation should both include:
 * [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-I: Mathematical analysis and derivations"](https://doi.org/10.1016/j.jcpx.2019.100013)
 * [Lecoanet et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-II: Implementation and examples"](https://doi.org/10.1016/j.jcpx.2019.100012)
 
-### Lecture 18: Introduction to low-rank methods
-<!-- Tuesday November 9 -->
+### Lecture 17: Introduction to low-rank methods
+<!-- Thursday November 4 -->
 
 **Summary**
 * Scale separation in gravity.
@@ -341,8 +339,8 @@ Your report and presentation should both include:
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
 
-### Lecture 19: Approximating low-rank interactions
-<!-- Tuesday November 16 -->
+### Lecture 18: Approximating low-rank interactions
+<!-- Tuesday November 9 -->
 <!-- Necessary for pset 5 -->
 
 **Summary**
@@ -354,8 +352,8 @@ Your report and presentation should both include:
   * Duality of projection and interpolation.
 * Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 
-### Lecture 20: Fast multipole methods
-<!-- Thursday November 18 -->
+### Lecture 19: Fast multipole methods
+<!-- Tuesday November 16 -->
 
 **Summary**
 * Analytical low-rank expansions using Taylor series.
@@ -366,8 +364,8 @@ Your report and presentation should both include:
 **Related Reading**
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
 
-### Lecture 21: Formulating boundary integral equations
-<!-- Tuesday November 30 -->
+### Lecture 20: Formulating boundary integral equations
+<!-- Thursday November 18 -->
 
 **Summary**
 * From PDEs to integral equations: complicated boundaries, exterior problems.
@@ -380,8 +378,8 @@ Your report and presentation should both include:
 **Related Reading**
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
-### Lecture 22: Discretizing boundary integral equations
-<!-- Thursday December 2 -->
+### Lecture 21: Discretizing boundary integral equations
+<!-- Tuesday November 23 -->
 
 **Summary**
 * Global quadrature discretizations.
@@ -392,8 +390,7 @@ Your report and presentation should both include:
 **Related Reading**
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
-### Lecture 23: Advanced boundary integral equations
-<!-- Tuesday December 7 -->
+### Lecture 22: Advanced boundary integral equations
 
 **Summary**
 * BIEs for other equations:
