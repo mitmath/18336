@@ -276,60 +276,52 @@ Your report and presentation should both include:
 
 ### Lecture 13: Sparse Chebyshev spectral methods
 <!-- Thursday October 21 -->
-
+<!-- Necessary for pset 4 -->
 
 **Summary**
 * Chebyshev-T derivatives are Chebyshev-U polynomials.
 * T-to-U differentiation and conversion matrices.
-* Sparse T-to-U method. Generalized tau equivalence.
-* Sherman-Morrison formula for banded + bordered matrices.
-
-### Lecture 14: Ultraspherical method
-<!-- Tuesday October 26 -->
-<!-- Necessary for pset 4 -->
-
-**Summary**
 * Differentiation and conversion between ultraspherical polynomials.
 * Ultraspherical method for arbitrary-order linear ODEs. Generalized tau equivalence.
 * Woodbury matrix identity for banded + multi-bordered matrices.
+
+**Related Reading**
+* [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
+
+### Lecture 14: Multidimensional sparse methods
+<!-- Tuesday October 26 -->
+
+**Summary**
 * Pseudospectral method for nonlinear IVPs.
 * Polynomial spectral methods in multiple dimensions:
   * Chebyshev-Chebyshev, alternating direction implicit scheme
   * Fourier-Chebyshev for periodic layers, cylinders, etc.
-  
-**Related Reading**
-* [Olver & Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458)
-* [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
-
-### Lecture 15: Multidimensional spectral methods
-<!-- Thursday October 28 -->
-
-**Summary**
 * Block-banded formulation for systems of equations.
 * Example: incompressible Navier-Stokes without splitting.
 * Examples using the Dedalus code.
+  
+**Related Reading**
+* [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
+
+### Lecture 15: Sparse methods for curvilinear domains
+<!-- Thursday October 28 -->
+
+**Summary**
 * Spectral methods with coordinate singularities:
   * Non-smoothness of vector/tensor components.
   * Radial regularity of Fourier components in polar coordinates.
-  
-**Related Reading**
-* [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
-
-### Lecture 16: Spectral methods in singular coordinate systems
-<!-- Tuesday November 2 -->
-
-**Summary**
 * Radial regularity of vector/tensor components in polar coordinates.
 * Modified Jacobi bases for tensors in the disk.
 * Spin-weighted spherical harmonics for tensors on the sphere.
 * Examples using the Dedalus code.
-
+  
 **Related Reading**
+* [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
 * [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-I: Mathematical analysis and derivations"](https://doi.org/10.1016/j.jcpx.2019.100013)
 * [Lecoanet et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-II: Implementation and examples"](https://doi.org/10.1016/j.jcpx.2019.100012)
 
-### Lecture 17: Introduction to low-rank methods
-<!-- Thursday November 4 -->
+### Lecture 16: Introduction to low-rank methods
+<!-- Tuesday November 2 -->
 
 **Summary**
 * Scale separation in gravity.
@@ -341,8 +333,8 @@ Your report and presentation should both include:
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
 
-### Lecture 18: Approximating low-rank interactions
-<!-- Tuesday November 9 -->
+### Lecture 17: Approximating low-rank interactions
+<!-- Thursday November 4 -->
 <!-- Necessary for pset 5 -->
 
 **Summary**
@@ -354,8 +346,8 @@ Your report and presentation should both include:
   * Duality of projection and interpolation.
 * Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 
-### Lecture 19: Fast multipole methods
-<!-- Tuesday November 16 -->
+### Lecture 18: Fast multipole methods
+<!-- Tuesday November 9 -->
 
 **Summary**
 * Analytical low-rank expansions using Taylor series.
@@ -366,8 +358,8 @@ Your report and presentation should both include:
 **Related Reading**
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
 
-### Lecture 20: Formulating boundary integral equations
-<!-- Thursday November 18 -->
+### Lecture 19: Formulating boundary integral equations
+<!-- Tuesday November 16 -->
 
 **Summary**
 * From PDEs to integral equations: complicated boundaries, exterior problems.
@@ -380,8 +372,8 @@ Your report and presentation should both include:
 **Related Reading**
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
-### Lecture 21: Discretizing boundary integral equations
-<!-- Tuesday November 23 -->
+### Lecture 20: Discretizing boundary integral equations
+<!-- Thursday November 18 -->
 
 **Summary**
 * Global quadrature discretizations.
@@ -392,7 +384,8 @@ Your report and presentation should both include:
 **Related Reading**
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
-### Lecture 22: Advanced boundary integral equations
+### Lecture 21: Advanced boundary integral equations
+<!-- Tuesday November 23 -->
 
 **Summary**
 * BIEs for other equations:
