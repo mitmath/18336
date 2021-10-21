@@ -81,7 +81,7 @@ Possible topics and suggested papers include:
 * Bivariate orthogonal polynomials on triangles.
   * [Olver et al. "A Sparse Spectral Method on Triangles"](https://doi.org/10.1137/19M1245888)
 * Non-uniform Fast Fourier Transforms.
-  * [Barnett et al. "A parallel non-uniform fast Fourier transform library based on an 'exponential of semicircle' kernel"](https://arxiv.org/abs/1808.06736)
+  * [Barnett et al. "A Parallel Nonuniform Fast Fourier Transform Library Based on an 'Exponential of Semicircle' Kernel"](https://doi.org/10.1137/18M120885X)
   
 ### Research projects
   
