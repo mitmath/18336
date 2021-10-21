@@ -59,7 +59,7 @@ You must write up your own code and solutions, and indicate your collaborators o
 
 ## Final Projects
 
-The final project is a 10 page paper and a 15 minute presentation during the last week of classes.
+The final project is a 10-12 page paper and a 15 minute presentation during the last week of classes.
 **The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
 The project can take the form a "literature review project" discussing a published algorithm or a "research project" attempting to implement a new solver for a problem of your choice.
 
@@ -99,9 +99,9 @@ In that case, an implementation for a related toy model is expected, along with 
 ### Report & presentation format
 
 Your report should be written in the style a SIAM article, using the [SIAM article LaTeX templates](https://www.siam.org/publications/journals/about-siam-journals/information-for-authors#LaTex2e-Standard).
-Your report should be between 10 and 15 pages.
-The SIAM layout is very spacious so this is not a lot of space, particularly if you have lots of images.
-Make sure your presentation and notation is concise!
+Your report should be between 10 and 12 pages.
+The SIAM layout is very spacious so this is not a lot of space.
+Make sure your presentation and notation is concise, but also has enough content and is just padded out with images!
 
 Along with your report, you must submit the code implementing your algorithms, preferably in the form of a Jupyter notebook.
 Make good use of headings, text, comments, and descriptive function/variables names.
