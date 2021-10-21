@@ -78,6 +78,8 @@ Possible topics and suggested papers include:
   * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
 * Alternating direction implicit scheme for multidimensional Chebyshev Poisson solvers.
   * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
+* Bivariate orthogonal polynomials on triangles.
+  * [Olver et al. "A Sparse Spectral Method on Triangles"](https://doi.org/10.1137/19M1245888)
 * Non-uniform Fast Fourier Transforms.
   * [Barnett et al. "A parallel non-uniform fast Fourier transform library based on an 'exponential of semicircle' kernel"](https://arxiv.org/abs/1808.06736)
   
