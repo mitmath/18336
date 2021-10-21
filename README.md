@@ -59,7 +59,7 @@ You must write up your own code and solutions, and indicate your collaborators o
 
 ## Final Projects
 
-The final project is a 10-15 page paper and a 20 minute presentation during the last week of classes.
+The final project is a 10 page paper and a 15 minute presentation during the last week of classes.
 **The final project is broad in scope, but must include the implementation of a fast algorithm in Python or Julia along with performance and error analyses.**
 The project can take the form a "literature review project" discussing a published algorithm or a "research project" attempting to implement a new solver for a problem of your choice.
 
