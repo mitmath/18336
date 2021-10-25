@@ -82,6 +82,8 @@ Possible topics and suggested papers include:
   * [Olver et al. "A Sparse Spectral Method on Triangles"](https://doi.org/10.1137/19M1245888)
 * Non-uniform Fast Fourier Transforms.
   * [Barnett et al. "A Parallel Nonuniform Fast Fourier Transform Library Based on an 'Exponential of Semicircle' Kernel"](https://doi.org/10.1137/18M120885X)
+* Sparse spectral elements.
+  * [Fortunato et al. "The ultraspherical spectral element method"](https://doi.org/10.1016/j.jcp.2020.110087)
   
 ### Research projects
   
