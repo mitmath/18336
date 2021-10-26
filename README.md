@@ -294,11 +294,11 @@ Your report and presentation should both include:
 <!-- Tuesday October 26 -->
 
 **Summary**
+* Block-banded formulation for systems of equations.
 * Pseudospectral method for nonlinear IVPs.
 * Polynomial spectral methods in multiple dimensions:
   * Chebyshev-Chebyshev, alternating direction implicit scheme
   * Fourier-Chebyshev for periodic layers, cylinders, etc.
-* Block-banded formulation for systems of equations.
 * Example: incompressible Navier-Stokes without splitting.
 * Examples using the Dedalus code.
   
