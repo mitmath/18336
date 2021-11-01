@@ -38,24 +38,19 @@ You must write up your own code and solutions, and indicate your collaborators o
 ## Problem Sets
 
 ### Problem Set 1: Fast Fourier Transforms
-<!-- Due on Canvas by midnight on Thursday 09/23/2021. -->
-<!-- Due on Canvas by midnight on Thursday 09/17/2020. -->
+<!-- Material finished 09/14. Due on 09/23. -->
 
 ### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers
-<!-- Due on Canvas by midnight on Thursday 10/14/2021. -->
-<!-- Due on Canvas by midnight on Tuesday 10/06/2020. -->
+<!-- Material finished 10/07. Due on 10/12. -->
 
 ### Problem Set 3: Chebyshev Collocation
-<!-- Due on Canvas by midnight on Thursday 10/28/2021. -->
-<!-- Due on Canvas by midnight on Tuesday 10/27/2020. -->
+<!-- Material finished 10/19. Due on 10/28. -->
 
-### Problem Set 4: Ultraspherical Solvers
-<!-- Due on Canvas by midnight on Thursday 11/4/2021. -->
-<!-- Due on Canvas by midnight on Tuesday 11/10/2020. -->
+### Problem Set 4: Ultraspherical Method
+<!-- Material finished 10/21. Due on 11/12. -->
 
 ### Problem Set 5: Low-Rank Methods
-<!-- Due on Canvas by midnight on Tuesday 11/23/2021. -->
-<!-- Due on Canvas by midnight on Thursday 11/19/2020. -->
+<!-- Material finished 11/04. Due on 11/23. -->
 
 ## Final Projects
 
