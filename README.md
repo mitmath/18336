@@ -331,7 +331,6 @@ Your report and presentation should both include:
   * Optimal low-rank approximations using truncated SVDs. 
 * Fast matrix-vector products using low-rank approximations.
 * Low-rank approximations to functions. Fast inner products for integral equations.
-* Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 
 **Related Reading**
 * [Townsend & Trefethen "Continuous analogues of matrix factorizations"](http://dx.doi.org/10.1098/rspa.2014.0585)
@@ -342,17 +341,18 @@ Your report and presentation should both include:
 
 **Summary**
 
+* Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 * Low-rank nature of gravitational interaction.
   * Projection: merging sources to compress the operator domain.
   * Interpolation: merging measurements to compress the operator range.
   * Duality of projection and interpolation.
+* Analytical low-rank expansions using Taylor series.
+* 2D and 3D multipole expansions. Error estimates.
 
 ### Lecture 18: Fast multipole methods
 <!-- Tuesday November 9 -->
 
 **Summary**
-* Analytical low-rank expansions using Taylor series.
-* 2D and 3D multipole expansions. Error estimates.
 * Hierarchical decompositions for error control.
 * Barnes-Hut and FMM in 2D. Comparison to direct methods.
 
