@@ -324,24 +324,28 @@ Your report and presentation should both include:
 * Scale separation in gravity.
   * Direct N-body using Newton's law for point masses.
   * Poisson equation for gravitational potential using Gauss's law for continuous distributions.
+  * Reformulating continuous problem as integral equation using Green's function.
   * Both are limited in between: many point masses or well-separated distributions.
-  * Green's function gives integral equation for potential: low rank for well-separated distributions.
 * Singular value decomposition.
   * Basic definition and derivation.
   * Optimal low-rank approximations using truncated SVDs. 
+* Fast matrix-vector products using low-rank approximations.
+* Low-rank approximations to functions. Fast inner products for integral equations.
+* Numerically approximating the SVD using Gaussian elimination for matrices and functions.
+
+**Related Reading**
+* [Townsend & Trefethen "Continuous analogues of matrix factorizations"](http://dx.doi.org/10.1098/rspa.2014.0585)
 
 ### Lecture 17: Approximating low-rank interactions
 <!-- Thursday November 4 -->
 <!-- Necessary for pset 5 -->
 
 **Summary**
-* Fast matrix-vector products using low-rank approximations.
-* Low-rank approximations to functions. Fast inner products for integral equations.
+
 * Low-rank nature of gravitational interaction.
   * Projection: merging sources to compress the operator domain.
   * Interpolation: merging measurements to compress the operator range.
   * Duality of projection and interpolation.
-* Numerically approximating the SVD using Gaussian elimination for matrices and functions.
 
 ### Lecture 18: Fast multipole methods
 <!-- Tuesday November 9 -->
