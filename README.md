@@ -349,12 +349,16 @@ Your report and presentation should both include:
 * Analytical low-rank expansions using Taylor series.
 * 2D and 3D multipole expansions. Error estimates.
 
-### Lecture 18: Fast multipole methods
+### Lecture 18: Fast multipole methods and boundary integral equations
 <!-- Tuesday November 9 -->
 
 **Summary**
 * Hierarchical decompositions for error control.
 * Barnes-Hut and FMM in 2D. Comparison to direct methods.
+* From PDEs to integral equations: complicated boundaries, exterior problems.
+* Basic ideas from potential theory for Laplace equation:
+  * Fictitious charges.
+  * Single-layer potentials.
 
 **Related Reading**
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
@@ -363,13 +367,9 @@ Your report and presentation should both include:
 <!-- Tuesday November 16 -->
 
 **Summary**
-* From PDEs to integral equations: complicated boundaries, exterior problems.
-* Basic ideas from potential theory for Laplace equation:
-  * Fictitious charges.
-  * Single-layer potentials.
-  * Double-layer potentials.
-* Weakly singular kernels. Compact operators. First and second kind Fredholm integral equations. 
-
+* Double-layer potentials.
+* Weakly singular kernels.
+* 
 **Related Reading**
 * [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
