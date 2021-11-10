@@ -353,42 +353,33 @@ Your report and presentation should both include:
 <!-- Tuesday November 9 -->
 
 **Summary**
-* Hierarchical decompositions for error control.
+* Hierarchical decompositions with error control.
 * Barnes-Hut and FMM in 2D. Comparison to direct methods.
-* From PDEs to integral equations: complicated boundaries, exterior problems.
+* Integral formulations of PDEs for complicated geometries, exterior problems.
 * Basic ideas from potential theory for Laplace equation:
   * Fictitious charges.
   * Single-layer potentials.
 
 **Related Reading**
 * [Beatson & Greengard "A short course on fast mulitpole methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf)
+* [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
 
-### Lecture 19: Formulating boundary integral equations
+### Lecture 19: Discretizing boundary integral equations
 <!-- Tuesday November 16 -->
 
 **Summary**
 * Double-layer potentials.
-* Weakly singular kernels.
-* 
-**Related Reading**
-* [Demanet's 18.336 2014 Class Notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf)
-
-### Lecture 20: Discretizing boundary integral equations
-<!-- Thursday November 18 -->
-
-**Summary**
 * Global quadrature discretizations.
 * Quadrature for weakly singular kernels.
 * Panel-based discretizations.
-* Domains with corners. Diadic refinement.
 
 **Related Reading**
 * [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](http://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html).
 
-### Lecture 21: Advanced boundary integral equations
-<!-- Tuesday November 23 -->
-
+### Lecture 20: Advanced boundary integral equations
+<!-- Thursday November 18 -->
 **Summary**
+* Domains with corners. Diadic refinement.
 * BIEs for other equations:
   * Stokes flow. Stokeslets and Stresslets.
   * Linear elasticity.
