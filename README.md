@@ -1,11 +1,11 @@
 <h2 align="center">
-  MIT 18.336J/6.335J, Fall 2021 <br />
+  MIT 18.336J/6.7340J, Fall 2022 <br />
   Fast Methods for Partial Differential and Integral Equations
 </h2>
 
 This course broadly covers modern numerical methods for solving large-scale partial differential and integral equations.
 The focus varies year to year and is often updated to include state-of-the-art techniques.
-This semester we will foucs in particular on Fourier and modern polynomial spectral methods, the fast multipole method, boundary integral equations, and applications to fluid dynamics and electromagnetism.
+This semester we will focus in particular on Fourier and modern polynomial spectral methods, the fast multipole method, boundary integral equations, and applications to fluid dynamics and electromagnetism.
 
 Catalog description: *A unified introduction to the theory and practice of modern, near linear-time, numerical methods for large-scale partial differential and integral equations.
 Topics include: preconditioned iterative methods; generalized Fast Fourier Transform and other butterfly-based methods; multiresolution approaches including multigrid algorithms, hierarchical low-rank matrix decompositions, and low and high frequency Fast Multipole Methods.
@@ -13,9 +13,9 @@ Example applications include: aircraft design, cardiovascular system modeling, e
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 11:00-12:30 PM in room 2-131.
+**Lectures**: Tuesday/Thursday 9:30-11:00 AM in room 2-147.
 
-**Office Hours**: In-person times TBD, by appointment via zoom.
+**Office Hours**: TBD.
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
@@ -79,9 +79,9 @@ Possible topics and suggested papers include:
   * [Barnett et al. "A Parallel Nonuniform Fast Fourier Transform Library Based on an 'Exponential of Semicircle' Kernel"](https://doi.org/10.1137/18M120885X)
 * Sparse spectral elements.
   * [Fortunato et al. "The ultraspherical spectral element method"](https://doi.org/10.1016/j.jcp.2020.110087)
-  
+
 ### Research projects
-  
+
 Another option is to use the methods covered in class to implement a fast solver for a research problem in your field.
 This should include:
 * A discussion of the scientific problem and a brief derivation of the model PDE.
@@ -160,7 +160,7 @@ Your report and presentation should both include:
   * Dirichlet BCs using DSTs.
   * Neumann BCs using DCTs.
   * Gauge fixing.
-  
+
 ### Lecture 5: Fast finite difference solvers in multiple dimensions
 <!-- Thursday Sept 23 -->
 
@@ -296,7 +296,7 @@ Your report and presentation should both include:
   * Fourier-Chebyshev for periodic layers, cylinders, etc.
 * Example: incompressible Navier-Stokes without splitting.
 * Examples using the Dedalus code.
-  
+
 **Related Reading**
 * [Fortunato & Townsend "Fast Poisson solvers for spectral methods"](https://arxiv.org/abs/1710.11259)
 
@@ -311,7 +311,7 @@ Your report and presentation should both include:
 * Modified Jacobi bases for tensors in the disk.
 * Spin-weighted spherical harmonics for tensors on the sphere.
 * Examples using the Dedalus code.
-  
+
 **Related Reading**
 * [Vasil et al. "Tensor calculus in polar coordinates using Jacobi polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013)
 * [Vasil et al. "Tensor calculus in spherical coordinates using Jacobi polynomials. Part-I: Mathematical analysis and derivations"](https://doi.org/10.1016/j.jcpx.2019.100013)
@@ -328,7 +328,7 @@ Your report and presentation should both include:
   * Both are limited in between: many point masses or well-separated distributions.
 * Singular value decomposition.
   * Basic definition and derivation.
-  * Optimal low-rank approximations using truncated SVDs. 
+  * Optimal low-rank approximations using truncated SVDs.
 * Fast matrix-vector products using low-rank approximations.
 * Low-rank approximations to functions. Fast inner products for integral equations.
 
