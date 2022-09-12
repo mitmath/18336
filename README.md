@@ -173,7 +173,7 @@ Your report and presentation should both include:
 * Limitations and alternatives for non-constant coefficients.
 
 ### Lecture 6: Domain decomposition methods
-<!-- Tuesday Sept 27 -->
+<!-- Sept 27 -->
 
 **Summary**
 * Extensions to other domains.
