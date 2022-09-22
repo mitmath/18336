@@ -67,8 +67,6 @@ Possible topics and suggested papers include:
   * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf)
 * Hierarchical Poincare-Steklov schemes using Chebyshev polynomails.
   * [Martinsson "The Hierarchical Poincare-Steklov (HPS) solver for elliptic PDEs: A tutorial"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
-* Parity-mixing in sine/cosine solvers.
-  * [Vasil et al. "A new method for fast transforms in parity-mixed PDEs"](https://github.com/mitmath/18336/blob/master/readings/vasil_parity_mixing.pdf)
 * Rectangular collocation with aliasing analysis.
   * [Driscoll & Hale "Rectangular spectral collocation"](https://doi.org/10.1093/imanum/dru062)
 * Alternating direction implicit scheme for multidimensional Chebyshev Poisson solvers.
