@@ -15,7 +15,7 @@ Example applications include: aircraft design, cardiovascular system modeling, e
 
 **Lectures**: Tuesday/Thursday 9:30-11:00 AM in room 2-147.
 
-**Office Hours**: TBD.
+**Office Hours**: Check Canvas calendar.
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
@@ -38,19 +38,19 @@ You must write up your own code and solutions, and indicate your collaborators o
 ## Problem Sets
 
 ### Problem Set 1: Fast Fourier Transforms
-<!-- Material finished 09/14. Due on 09/23. -->
+<!-- Material finished 09/13. Due on 09/22. -->
 
 ### Problem Set 2: Fourier and Finite Difference Helmholtz Solvers
-<!-- Material finished 10/07. Due on 10/12. -->
+<!-- Material finished 10/06. Due on 10/13. -->
 
 ### Problem Set 3: Chebyshev Collocation
-<!-- Material finished 10/19. Due on 10/28. -->
+<!-- Material finished 10/19?. Due on 10/28?. -->
 
 ### Problem Set 4: Ultraspherical Method
-<!-- Material finished 10/21. Due on 11/12. -->
+<!-- Material finished 10/21?. Due on 11/12?. -->
 
 ### Problem Set 5: Low-Rank Methods
-<!-- Material finished 11/04. Due on 11/23. -->
+<!-- Material finished 11/04?. Due on 11/23?. -->
 
 ## Final Projects
 
