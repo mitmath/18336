@@ -44,10 +44,10 @@ You must write up your own code and solutions, and indicate your collaborators o
 <!-- Material finished 10/06. Due on 10/13. -->
 
 ### Problem Set 3: Chebyshev Collocation
-<!-- Material finished 10/19?. Due on 10/28?. -->
+<!-- Material finished 10/20. Due on 10/27. -->
 
 ### Problem Set 4: Ultraspherical Method
-<!-- Material finished 10/21?. Due on 11/12?. -->
+<!-- Material finished 10/25. Due on 11/10. -->
 
 ### Problem Set 5: Low-Rank Methods
 <!-- Material finished 11/04?. Due on 11/23?. -->
