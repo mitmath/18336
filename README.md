@@ -94,6 +94,8 @@ Your report and presentation should both include:
 
 ### Lecture 1: Introduction to Fast Methods for PDEs
 
+[notes](https://github.com/mitmath/18336/blob/master/notes/lecture_01.pdf)
+
 * Why do we need fast PDE solvers? Modeling, simulation, design, and inference.
 * Solving PDEs on the computer: discretize, solve, and analyze.
 * Finite differences: epsilon accuracy, at what cost?
