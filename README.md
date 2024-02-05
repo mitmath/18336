@@ -1,5 +1,5 @@
 <h2 align="center">
-  MIT 18.336J/6.7340J, Spring 2023 <br />
+  MIT 18.336J/6.7340J, Spring 2024 <br />
   Fast Methods for Partial Differential and Integral Equations
 </h2>
 
