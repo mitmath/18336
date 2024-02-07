@@ -102,12 +102,12 @@ Your report and presentation should both include:
 
 ### Lecture 2
 
-[notes](https://github.com/mitmath/18336/blob/master/notes/lecture_02.pdf)
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_02.pdf)
 
 * Symmetry and structure in a simple boundary value problem.
 * What structure appears in the discretization and how do we leverage it?
 * Locality and sparsity, translation invariance and Toeplitz matrices.
 * Fourier modes and diagonalization.
 
-**Further reading:** For a review of finite difference approximations, chapters 1 and 2 in LeVeque.
+**Further reading:** Finite difference approximation review, chapters 1 and 2 in LeVeque.
 
