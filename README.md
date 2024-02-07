@@ -23,7 +23,7 @@ There is no textbook for the course, but the following books may be useful:
 * Strauss "Partial Differential Equations: An Introduction". An advanced undergrad introduction to PDEs.
 * Boyd "Chebyshev and Fourier Spectral Methods". Very readable and [available online](http://depts.washington.edu/ph506/Boyd.pdf).
 * [Martinsson "Fast Direct Solvers for Elliptic PDEs"](https://doi.org/10.1137/1.9781611976045). Modern and concise.
-* LeVeque "Finite difference methods for ordinary and partial differential equations".
+* LeVeque "Finite difference methods for ordinary and partial differential equations". (MIT access through SIAM.)
 
 **Grading**: 50% problem sets (approximately biweekly), 50% final project report and presentation.
 Unless previous arrangements are made, late problem sets will be accepted for 1 week after the initial due date with a 50% penalty.
@@ -92,10 +92,22 @@ Your report and presentation should both include:
 
 ## Lecture Material and Summaries
 
-### Lecture 1: Introduction to Fast Methods for PDEs
+### Lecture 1
 
-[notes](https://github.com/mitmath/18336/blob/master/notes/lecture_01.pdf)
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_01.pdf)
 
 * Why do we need fast PDE solvers? Modeling, simulation, design, and inference.
 * Solving PDEs on the computer: discretize, solve, and analyze.
 * Finite differences: epsilon accuracy, at what cost?
+
+### Lecture 2
+
+[notes](https://github.com/mitmath/18336/blob/master/notes/lecture_02.pdf)
+
+* Symmetry and structure in a simple boundary value problem.
+* What structure appears in the discretization and how do we leverage it?
+* Locality and sparsity, translation invariance and Toeplitz matrices.
+* Fourier modes and diagonalization.
+
+**Further reading:** For a review of finite difference approximations, chapters 1 and 2 in LeVeque.
+
