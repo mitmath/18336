@@ -119,5 +119,5 @@ Your report and presentation should both include:
 * The Fast Fourier Transform (FFT) algorithm.
 * Radix-2 FFT: polynomial evaluation, even-odd decomposition, and roots of unity.
 
-**Further reading:** * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
+**Further reading:** ["Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
 
