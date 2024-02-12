@@ -113,3 +113,11 @@ Your report and presentation should both include:
 
 **Further reading:** Finite difference approximation review, chapters 1 and 2 in LeVeque.
 
+### Lecture 3
+
+* The Discrete Fourier Transform (DFT) matrix.
+* The Fast Fourier Transform (FFT) algorithm.
+* Radix-2 FFT: polynomial evaluation, even-odd decomposition, and roots of unity.
+
+**Further reading:** * [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
+
