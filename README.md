@@ -115,6 +115,8 @@ Your report and presentation should both include:
 
 ### Lecture 3
 
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_03.pdf)
+
 * The Discrete Fourier Transform (DFT) matrix.
 * The Fast Fourier Transform (FFT) algorithm.
 * Radix-2 FFT: polynomial evaluation, even-odd decomposition, and roots of unity.
