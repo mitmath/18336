@@ -121,12 +121,22 @@ Your report and presentation should both include:
 * The Fast Fourier Transform (FFT) algorithm.
 * Radix-2 FFT: polynomial evaluation, even-odd decomposition, and roots of unity.
 
-**Further reading:** ["Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
+**Further reading:** [Johnson & Frigo "Implementing FFTs in Practice"](https://github.com/mitmath/18336/blob/master/readings/johnson_frigo_implementing_ffts.pdf).
 
 ### Lecture 4
 
 [Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_04.pdf)
 
-* Fast Fourier Transform (powers other than 2)
-* Discrete Cosine and Sine Transforms (Type I)
-* Fast FFT-based Poisson solvers (1D)
+* Fast Fourier Transform (powers other than 2).
+* Discrete Cosine and Sine Transforms (Type I).
+* Fast FFT-based Poisson solvers (1D).
+
+### Lecture 5
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_05.pdf)
+
+* Dirichlet boundary conditions and odd extensions.
+* Neumann boundary conditions and even extensions.
+* Circulent embedding for fast Toeplitz mat-vecs.
+
+**Further reading:** [Strang "The Discrete Cosine Transform"](https://epubs.siam.org/doi/10.1137/S0036144598336745).
