@@ -140,3 +140,11 @@ Your report and presentation should both include:
 * Circulent embedding for fast Toeplitz mat-vecs.
 
 **Further reading:** [Strang "The Discrete Cosine Transform"](https://epubs.siam.org/doi/10.1137/S0036144598336745).
+
+### Lecture 6
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_06.pdf)
+
+* Poisson's equation in a 2D separable domain.
+* Separable domains, vectorization, and Kronecker products.
+* Fast transforms and solvers on separable domains.
