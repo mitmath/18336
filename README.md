@@ -137,7 +137,7 @@ Your report and presentation should both include:
 
 * Dirichlet boundary conditions and odd extensions.
 * Neumann boundary conditions and even extensions.
-* Circulent embedding for fast Toeplitz mat-vecs.
+* Circulant embedding for fast Toeplitz mat-vecs.
 
 **Further reading:** [Strang "The Discrete Cosine Transform"](https://epubs.siam.org/doi/10.1137/S0036144598336745).
 
