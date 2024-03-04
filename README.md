@@ -157,7 +157,11 @@ Your report and presentation should both include:
 * The role of fast BVP solvers in time-steppers and nonlinear iterative solvers.
 * Iterative methods and preconditioning for BVPs.
 
+**Further Reading:** [Saad "Five Key Concepts That Shaped Iterative Solution Methods for Linear Systems"](https://sinews.siam.org/Details-Page/five-key-concepts-that-shaped-iterative-solution-methods-for-linear-systems).
+
 ### Lecture 8
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_08.pdf)
 
 * Domain decomposition techniques.
 * Patching solutions for 1D and 2D Poisson problems.
