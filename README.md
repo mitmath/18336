@@ -148,3 +148,18 @@ Your report and presentation should both include:
 * Poisson's equation in a 2D separable domain.
 * Separable domains, vectorization, and Kronecker products.
 * Fast transforms and solvers on separable domains.
+
+### Lecture 7
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_07.pdf)
+
+* Complications: variable coefficients, time dependence, and nonlinearity.
+* The role of fast BVP solvers in time-steppers and nonlinear iterative solvers.
+* Iterative methods and preconditioning for BVPs.
+
+### Lecture 8
+
+* Domain decomposition techniques.
+* Patching solutions for 1D and 2D Poisson problems.
+* Block structure and Schur complements.
+
