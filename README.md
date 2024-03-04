@@ -163,5 +163,5 @@ Your report and presentation should both include:
 * Patching solutions for 1D and 2D Poisson problems.
 * Block structure and Schur complements.
 
-**Further Reading:** [Martinsson "The Hierarchical Poincare-Steklov Solver for Elliptic PDEs".](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf)
+**Further Reading:** [Martinsson "The Hierarchical Poincare-Steklov Solver for Elliptic PDEs"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf).
 
