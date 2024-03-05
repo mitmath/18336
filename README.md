@@ -35,7 +35,8 @@ You must write up your own code and solutions, and indicate your collaborators o
 
 Problem sets will be posted here (approximately biweekly) and should be submitted on [Gradescope](https://www.gradescope.com/).
 
-* [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2023 at 6pm.
+* [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm.
+* [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm.
 
 ## Final Projects
 
