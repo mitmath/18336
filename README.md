@@ -35,7 +35,8 @@ You must write up your own code and solutions, and indicate your collaborators o
 
 Problem sets will be posted here (approximately biweekly) and should be submitted on [Gradescope](https://www.gradescope.com/).
 
-* [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2023 at 6pm.
+* [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm.
+* [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm.
 
 ## Final Projects
 
@@ -157,7 +158,11 @@ Your report and presentation should both include:
 * The role of fast BVP solvers in time-steppers and nonlinear iterative solvers.
 * Iterative methods and preconditioning for BVPs.
 
+**Further Reading:** [Saad "Five Key Concepts That Shaped Iterative Solution Methods for Linear Systems"](https://sinews.siam.org/Details-Page/five-key-concepts-that-shaped-iterative-solution-methods-for-linear-systems).
+
 ### Lecture 8
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_08.pdf)
 
 * Domain decomposition techniques.
 * Patching solutions for 1D and 2D Poisson problems.
