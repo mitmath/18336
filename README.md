@@ -170,3 +170,11 @@ Your report and presentation should both include:
 
 **Further Reading:** [Martinsson "The Hierarchical Poincare-Steklov Solver for Elliptic PDEs"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf).
 
+### Lecture 9
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_09.pdf)
+
+* Hierarchical merging in domain decomposition.
+* Mapped elements and meshes.
+* Intro to spectral methods.
+
