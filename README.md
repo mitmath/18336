@@ -178,3 +178,11 @@ Your report and presentation should both include:
 * Mapped elements and meshes.
 * Intro to spectral methods.
 
+### Lecture 10
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_10.pdf)
+
+* The Fourier spectral method in 1D.
+* Test space, trial space, and truncation errors.
+* Convergence rates for smooth functions.
+
