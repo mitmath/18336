@@ -35,7 +35,7 @@ You must write up your own code and solutions, and indicate your collaborators o
 
 Problem sets will be posted here (approximately biweekly) and should be submitted on [Gradescope](https://www.gradescope.com/).
 
-* [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm.
+* [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm ([solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions?)). 
 * [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm.
 
 ## Final Projects
@@ -169,4 +169,12 @@ Your report and presentation should both include:
 * Block structure and Schur complements.
 
 **Further Reading:** [Martinsson "The Hierarchical Poincare-Steklov Solver for Elliptic PDEs"](https://github.com/mitmath/18336/blob/master/readings/martinsson_poincare_steklov.pdf).
+
+### Lecture 9
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_09.pdf)
+
+* Hierarchical merging in domain decomposition.
+* Mapped elements and meshes.
+* Intro to spectral methods.
 
