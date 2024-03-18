@@ -186,3 +186,10 @@ Your report and presentation should both include:
 * Test space, trial space, and truncation errors.
 * Convergence rates for smooth functions.
 
+### Lecture 11
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_11.pdf)
+
+* Spectral methods with sine (cosine) basis.
+* Nonperiodic problems with definite parity.
+* 2D Fourier spectral methods.
