@@ -37,6 +37,7 @@ Problem sets will be posted here (approximately biweekly) and should be submitte
 
 * [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm ([solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions?)). 
 * [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm.
+* [Problem Set 3](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Friday April 5, 2024 at 6pm.
 
 ## Final Projects
 
@@ -186,3 +187,10 @@ Your report and presentation should both include:
 * Test space, trial space, and truncation errors.
 * Convergence rates for smooth functions.
 
+### Lecture 11
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_11.pdf)
+
+* Spectral methods with sine (cosine) basis.
+* Nonperiodic problems with definite parity.
+* 2D Fourier spectral methods.
