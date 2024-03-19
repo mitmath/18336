@@ -194,3 +194,11 @@ Your report and presentation should both include:
 * Spectral methods with sine (cosine) basis.
 * Nonperiodic problems with definite parity.
 * 2D Fourier spectral methods.
+
+### Lecture 12
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_12.pdf)
+
+* Chebyshev polynomials and series.
+* Fast Chebyshev transforms.
+* Chebyshev differentiation matrices.
