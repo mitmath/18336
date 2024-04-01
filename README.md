@@ -36,7 +36,7 @@ You must write up your own code and solutions, and indicate your collaborators o
 Problem sets will be posted here (approximately biweekly) and should be submitted on [Gradescope](https://www.gradescope.com/).
 
 * [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm ([solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions?)). 
-* [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm.
+* [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm ([Solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions)).
 * [Problem Set 3](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Friday April 5, 2024 at 6pm.
 
 ## Final Projects
@@ -194,3 +194,11 @@ Your report and presentation should both include:
 * Spectral methods with sine (cosine) basis.
 * Nonperiodic problems with definite parity.
 * 2D Fourier spectral methods.
+
+### Lecture 12
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_12.pdf)
+
+* Chebyshev polynomials and series.
+* Fast Chebyshev transforms.
+* Chebyshev differentiation matrices.
