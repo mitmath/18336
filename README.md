@@ -202,3 +202,11 @@ Your report and presentation should both include:
 * Chebyshev polynomials and series.
 * Fast Chebyshev transforms.
 * Chebyshev differentiation matrices.
+
+### Lecture 13
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_13.pdf)
+
+* Polynomial interpolation.
+* Approximation properties of interpolants.
+* "Good" and "bad" grids: Chebyshev vs. equally spaced points.
