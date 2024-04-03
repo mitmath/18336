@@ -228,6 +228,6 @@ Your report and presentation should both include:
 * Fast solves with "almost-banded" discretizations.
 * Ultraspherical bases.
 
-**Further Reading:"** [Olver and Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458).
+**Further Reading:** [Olver and Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458).
 
 
