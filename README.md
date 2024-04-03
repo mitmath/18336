@@ -220,3 +220,14 @@ Your report and presentation should both include:
 * Nonlinear problems: Newton's iteration and Frechet derivatives.
 
 **Further Reading:** [Driscoll and Hale "Rectangular Spectral Collocation"](https://doi.org/10.1093/imanum/dru062) and [Aurentz and Trefethen "Block Operators and Spectral Discretizations"](https://doi.org/10.1137/16M1065975).
+
+### Lecture 15
+
+* Chebyshev "T" and "U" bases.
+* Sparse Chebyshev "T"->"U" differentiation matrix.
+* Fast solves with "almost-banded" discretizations.
+* Ultraspherical bases.
+
+**Further Reading:"** [Olver and Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458).
+
+
