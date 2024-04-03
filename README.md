@@ -210,3 +210,13 @@ Your report and presentation should both include:
 * Polynomial interpolation.
 * Approximation properties of interpolants.
 * "Good" and "bad" grids: Chebyshev vs. equally spaced points.
+
+### Lecture 14
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_14.pdf)
+
+* Spectral collocation matrices.
+* Boundary bordering and rectangular projection.
+* Nonlinear problems: Newton's iteration and Frechet derivatives.
+
+**Further Reading:** [Driscoll and Hale "Rectangular Spectral Collocation"](https://doi.org/10.1093/imanum/dru062) and [Aurentz and Trefethen "Block Operators and Spectral Discretizations"](https://doi.org/10.1137/16M1065975).
