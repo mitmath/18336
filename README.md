@@ -223,6 +223,8 @@ Your report and presentation should both include:
 
 ### Lecture 15
 
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_15.pdf)
+
 * Chebyshev "T" and "U" bases.
 * Sparse Chebyshev "T"->"U" differentiation matrix.
 * Fast solves with "almost-banded" discretizations.
