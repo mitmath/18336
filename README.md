@@ -245,4 +245,8 @@ Your report and presentation should both include:
 * Block structure for coupled ODE.
 * Block structure for PDE discretizations.
 
+### Lecture 18
 
+* The challenge of multiple nonperiodic variables.
+* Fast spectral methods for Poisson equation in separable domains.
+* ADI and factored ADI for Sylvester equations.
