@@ -233,4 +233,16 @@ Your report and presentation should both include:
 
 **Further Reading:** [Olver and Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458).
 
+### Lecture 16
+
+* Multiplication matrices in ultraspherical bases.
+* When are multiplication matrices "banded"?
+* Pseudospectral methods for nonlinear IVPs.
+
+### Lecture 17
+
+* Multidimensional sparse spectral methods.
+* Block structure for coupled ODE.
+* Block structure for PDE discretizations.
+
 
