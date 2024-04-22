@@ -241,9 +241,13 @@ Your report and presentation should both include:
 
 ### Lecture 17
 
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_17.pdf)
+
 * Multidimensional sparse spectral methods.
 * Block structure for coupled ODE.
 * Block structure for PDE discretizations.
+
+**Further Reading:** [Vasil et. al. "Tensor Calculus in Polar Coordinates Using Jacobi Polynomials"](https://doi.org/10.1016/j.jcp.2016.08.013).
 
 ### Lecture 18
 
