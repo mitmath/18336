@@ -250,3 +250,15 @@ Your report and presentation should both include:
 * The challenge of multiple nonperiodic variables.
 * Fast spectral methods for Poisson equation in separable domains.
 * ADI and factored ADI for Sylvester equations.
+
+**Further Reading:** [Fortunato and Townsend "Fast Poisson Solvers for Spectral Methods"](https://doi.org/10.1093/imanum/drz034) and [Townsend and Wilber "On the Singular Values of Matrices with High Displacement Rank"](https://doi.org/10.1016/j.laa.2018.02.025).
+
+### Lecture 19
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_19.pdf)
+
+* Low-rank matrices and functions.
+* Storage and computation with low-rank functions.
+* Integral operators with low-rank kernels.
+
+**Further Reading:** [Townsend and Trefethen "Continuous Analogues of Matrix Factorizations"](https://doi.org/10.1098/rspa.2014.0585)
