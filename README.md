@@ -261,4 +261,4 @@ Your report and presentation should both include:
 * Storage and computation with low-rank functions.
 * Integral operators with low-rank kernels.
 
-**Further Reading:** [Townsend and Trefethen "Continuous Analogues of Matrix Factorizations"](https://doi.org/10.1098/rspa.2014.0585)
+**Further Reading:** [Townsend and Trefethen "Continuous Analogues of Matrix Factorizations"](https://doi.org/10.1098/rspa.2014.0585).
