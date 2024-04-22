@@ -36,8 +36,9 @@ You must write up your own code and solutions, and indicate your collaborators o
 Problem sets will be posted here (approximately biweekly) and should be submitted on [Gradescope](https://www.gradescope.com/).
 
 * [Problem Set 1](https://canvas.mit.edu/courses/24352/external_tools/369) is due on Friday February 23, 2024 at 6pm ([solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions?)). 
-* [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm ([Solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions)).
-* [Problem Set 3](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Friday April 5, 2024 at 6pm.
+* [Problem Set 2](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Monday March 18, 2024 at 6pm ([solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions)).
+* [Problem Set 3](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets?) is due on Friday April 5, 2024 at 6pm ([solutions](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets/Solutions)).
+* [Problem Set 4](https://canvas.mit.edu/courses/24352/files/folder/Problem%20Sets) is due on Friday April 19, 2024 at 6pm.
 
 ## Final Projects
 
@@ -220,3 +221,32 @@ Your report and presentation should both include:
 * Nonlinear problems: Newton's iteration and Frechet derivatives.
 
 **Further Reading:** [Driscoll and Hale "Rectangular Spectral Collocation"](https://doi.org/10.1093/imanum/dru062) and [Aurentz and Trefethen "Block Operators and Spectral Discretizations"](https://doi.org/10.1137/16M1065975).
+
+### Lecture 15
+
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_15.pdf)
+
+* Chebyshev "T" and "U" bases.
+* Sparse Chebyshev "T"->"U" differentiation matrix.
+* Fast solves with "almost-banded" discretizations.
+* Ultraspherical bases.
+
+**Further Reading:** [Olver and Townsend "A Fast and Well-Conditioned Spectral Method"](https://doi.org/10.1137/120865458).
+
+### Lecture 16
+
+* Multiplication matrices in ultraspherical bases.
+* When are multiplication matrices "banded"?
+* Pseudospectral methods for nonlinear IVPs.
+
+### Lecture 17
+
+* Multidimensional sparse spectral methods.
+* Block structure for coupled ODE.
+* Block structure for PDE discretizations.
+
+### Lecture 18
+
+* The challenge of multiple nonperiodic variables.
+* Fast spectral methods for Poisson equation in separable domains.
+* ADI and factored ADI for Sylvester equations.
