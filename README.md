@@ -275,6 +275,8 @@ Your report and presentation should both include:
 
 ### Lecture 21
 
+[Notes](https://github.com/mitmath/18336/blob/master/notes/lecture_21.pdf)
+
 * Hierarchical low-rank approximations.
 * Barnes-Hut for particle simulations.
 * The Fast Multipole Method (FMM).
