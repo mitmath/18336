@@ -266,3 +266,17 @@ Your report and presentation should both include:
 * Integral operators with low-rank kernels.
 
 **Further Reading:** [Townsend and Trefethen "Continuous Analogues of Matrix Factorizations"](https://doi.org/10.1098/rspa.2014.0585).
+
+### Lecture 20
+
+* Green's functions for PDEs: Poisson equation.
+* Low-rank approximations: separation and smoothness.
+* Multipole expansions: projection and interpolation.
+
+### Lecture 21
+
+* Hierarchical low-rank approximations.
+* Barnes-Hut for particle simulations.
+* The Fast Multipole Method (FMM).
+
+**Further Reading:** [Beatson and Greengard "A Short Course on Fast Multipole Methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf).
