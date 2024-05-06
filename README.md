@@ -282,3 +282,11 @@ Your report and presentation should both include:
 * The Fast Multipole Method (FMM).
 
 **Further Reading:** [Beatson and Greengard "A Short Course on Fast Multipole Methods"](https://github.com/mitmath/18336/blob/master/readings/beatson_greengard_fmm.pdf).
+
+### Lecture 22
+
+* Boundary Integral Equations
+* Single Layer Potentials
+* Double Layer Potentials
+
+**Further Reading:** [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](https://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html). 
