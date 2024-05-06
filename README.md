@@ -289,4 +289,4 @@ Your report and presentation should both include:
 * Single Layer Potentials
 * Double Layer Potentials
 
-**Further Reading:** [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](https://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html). 
+**Further Reading:** [Martinsson's lectures from 2014 CBMS/NSF Conference on Fast Direct Solvers](https://amath.colorado.edu/faculty/martinss/2014_CBMS/lectures.html) and [Professor Demanet's 2014 lecture notes](https://github.com/mitmath/18336/blob/master/readings/demanet_18336_2014_notes.pdf).
