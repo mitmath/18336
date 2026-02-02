@@ -1,5 +1,5 @@
 <h2 align="center">
-  MIT 18.336J/6.7340J, Fall 2022 <br />
+  MIT 18.336J/6.7340J, Spring 2026 <br />
   Fast Methods for Partial Differential and Integral Equations
 </h2>
 
@@ -13,7 +13,7 @@ Example applications include: aircraft design, cardiovascular system modeling, e
 
 ## Syllabus
 
-**Lectures**: Tuesday/Thursday 9:30-11:00 AM in room 2-147.
+**Lectures**: Tuesday/Thursday 1:00-2:30pm in room 2-143.
 
 **Office Hours**: Check Canvas calendar.
 
