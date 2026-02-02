@@ -24,7 +24,7 @@ Problem sets will involve extensive coding and are required to be completed in *
 
 **Textbooks & Other Reading**: Recommended reading will be posted as the class progresses.
 There is no textbook for the course, but the following books may be useful:
-* Strauss "Partial Differential Equations: An Introduction". An advanced undergrad introduction to PDEs.
+* Strauss "Partial Differential Equations: An Introduction". A nice undergrad introduction to PDEs.
 * [Boyd "Chebyshev and Fourier Spectral Methods"](http://depts.washington.edu/ph506/Boyd.pdf). Very readable and available for free.
 * [Martinsson "Fast Direct Solvers for Elliptic PDEs"](https://doi.org/10.1137/1.9781611976045). Modern and concise.
 * [LeVeque "Finite difference methods for ordinary and partial differential equations"](https://epubs.siam.org/doi/book/10.1137/1.9780898717839). A classic.
