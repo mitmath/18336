@@ -15,7 +15,7 @@ Example applications include: aircraft design, cardiovascular system modeling, e
 
 **Lectures**: Tuesday/Thursday 1:00-2:30pm in room 2-143.
 
-**Office Hours**: Check Canvas calendar.
+**Office Hours**: By appointment and at times on Canvas calendar.
 
 **Prerequisites**: This course covers advanced techniques for discretizing and solving PDEs.
 Some familiarity with ordinary differential equations, partial differential equaitons, Fourier transforms, linear algebra, and basic numerical methods for PDEs is assumed.
