@@ -95,7 +95,7 @@ In that case, an implementation for a related toy model is expected, along with 
 
 ### Report & presentation format
 
-Your report should be written in the style a SIAM article, using the [SIAM article LaTeX templates](https://www.siam.org/publications/journals/about-siam-journals/information-for-authors#LaTex2e-Standard).
+Your report should be written in the style a SIAM article, using the [SIAM article LaTeX templates](https://epubs.siam.org/journal-authors#macros).
 Your report should be between 10 and 12 pages.
 The SIAM layout is very spacious so this is not a lot of space.
 Make sure your presentation and notation is concise, but also has enough content and is not just padded out with images!
