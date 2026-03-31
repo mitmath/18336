@@ -77,6 +77,8 @@ Possible topics and suggested papers include:
   * [Barnett et al. "A Parallel Nonuniform Fast Fourier Transform Library Based on an 'Exponential of Semicircle' Kernel"](https://doi.org/10.1137/18M120885X)
 * Sparse spectral elements.
   * [Fortunato et al. "The ultraspherical spectral element method"](https://doi.org/10.1016/j.jcp.2020.110087)
+* Laplace solver using rational approximnations.
+  * [Costa & Trefethen "AAA-least squares rational approximation and solution of Laplace problems"](https://doi.org/10.4171/8ecm/16)
 
 ### Research projects
 
